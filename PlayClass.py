@@ -482,7 +482,141 @@ def rolling_average_comparison(df, ax, score_type: str, window: int, character: 
 
     # Make the plots
     ax = plot_moving_average(df[score_columns[0]], window, title=title, ax=ax, ticks=ticks)
+def make_speaker_list(df):
+  """
+  This function returns a list of every unique speaker in a df
+  """
 
+  speaker_list = df.speaker.unique().tolist()
+  speaker_list = [word.upper() for word in speaker_list]
+
+  return speaker_list
+
+
+def stage_finder(x, speaker_list):
+  """
+  This function scans a stage direction line  (Enter Othello, Exit Macbeth ...) and finds every 
+  character present in that line. This keeps track of characters who enter or exit each line.
+  Returns a df row with 3 new columns for characters who enter/exit, or if everyone exits (exeunt in the play)
+  """
+
+  enter_string =x['stage'].partition("Enter ")[2] or x['stage'].partition("Re-enter ")[2]
+  enter_list = [i for i in speaker_list if i in enter_string.upper()]
+  while("" in enter_list): 
+    enter_list.remove("")
+
+  x['Enter'] = enter_list
+
+  exit_string = x['stage'].partition("Exit ")[2]
+  exit_list = [i for i in speaker_list if i in exit_string.upper()]
+  while("" in exit_list): 
+    exit_list.remove("")
+  # Removes things like "MESSENGER" if "SECOND MESSENGER"
+  x['Exit'] = exit_list
+
+  exeunt_string = x['stage'].partition("Exeunt")[2] or x['stage'].partition("Exeunt.")[2]
+  exeunt_list = [i for i in speaker_list if i in exeunt_string.upper()]
+  if ((len(exeunt_list) == 1) and (exeunt_list[0] == '') and (str(x.text).startswith("Exeunt"))): # and (str(x.CONTENT).startswith("Exeunt"))):
+    exeunt_list[0] = 'ALL'
+
+
+  x['Exeunt'] = exeunt_list
+
+  return x
+
+def finding_audience(df):
+  """
+  This function finds each character that is present during each line in the df.
+  Uses stage_finder function then iterates through each line to create a list 
+  which keeps track of current characters in the scene.
+  """
+
+  stagedir = df.copy()
+  stagedir['stage'] = ''
+  stagedir['stage'] = np.where((stagedir['type'] == 'stage_direction'), #Identifies the case to apply to
+                            stagedir['text'],      #This is the value that is inserted #used to be stagedir['CONTENT'] but text has info in []
+                            stagedir['stage'])      #This is the column that is affected
+                          
+  stagedir.stage = stagedir.stage.fillna('')
+
+
+  stagedir = stagedir.apply(stage_finder, speaker_list= make_speaker_list(df), axis=1)
+
+  stagedir['Present'] = np.empty((len(stagedir), 0)).tolist()
+
+  present_now = []
+  for index, row in stagedir.iterrows():
+    # empties current df column
+    row['Present'].clear()
+
+    # Checks Enter column and appends to present list
+    if len(row['Enter']) > 0:
+      for char in row['Enter']:
+        if char not in present_now:
+          present_now.append(char) 
+    # Checks exit column and removes any characters from present list
+    if len(row['Exit']) > 0:
+      for char in row["Exit"]:
+        try:
+          present_now.remove(char)
+        except:
+          pass
+    # special case where text is only "Exit", removes current speaker
+    if (row['stage'] == 'Exit' or row['stage'] == 'Exit.' ) & (row['type'] == 'stage_direction'):
+      present_now.remove(row['speaker'])
+
+    # Exeunt column    
+    if len(row['Exeunt']) > 0:
+      for char in row["Exeunt"]:
+        # Removes all current characters in present list
+        if char == 'ALL':
+          present_now.clear()
+        # Only removes specific chars
+        else:
+          try:
+            present_now.remove(char)
+          except:
+            pass
+    # Tries to catch when Enter column misses some characters, inputs any subsequent speakers that appear
+    if (row['speaker'] not in present_now) and (row['type'] == 'line'):
+      present_now.append(row['speaker'])
+
+    # adding current list iteration to df
+    present_now = list(set(present_now))
+    for word in present_now:  
+      stagedir.at[index,'Present'].append(word) 
+
+  return stagedir
+
+def isolate_text(df,df_with_only_lines):
+  """
+  df - A dataframe which has the current audience (probably result of finding_audience fxn)
+  df_with_only_lines - Dataframe with WNLU results, no audience column
+
+  This function will merge these dataframes to only keep the lines (adding audience data to WNLU dataframe)
+  """
+  try:
+    df_with_only_lines = df_with_only_lines.rename(columns={"text": "CONTENT"})
+  except:
+    pass
+
+  merged = pd.merge(df, df_with_only_lines, how='inner',on=['CONTENT'])
+
+  merged.drop(merged.filter(regex='_y$').columns.tolist(),axis=1, inplace=True)
+  merged = merged.loc[:, ~merged.columns.str.contains('^Unnamed')]
+
+  return merged
+
+
+def check_for_character(x, character_list):
+  """
+  This function checks if a row has any character present that is also in 
+  a specified list of either outsiders or nobility. 
+  """
+  current_list = x.Present
+  character_list = [word.upper() for word in character_list]
+  check = any(item in current_list for item in character_list)
+  return check
 
 # Class definition
 
@@ -865,17 +999,54 @@ class Play:
         if female_list is not None:
             play_df['gender'] = np.where(play_df['speaker'].isin(female_list), 'female', 'male')
 
-        # play_df['gender'] = play_df['speaker'].map(gender_dict)
-        # play_df['gender'] = play_df['gender'].fillna('male')
         if gender_ambivalent is not None:
             play_df['gender'] = np.where(play_df['speaker'].isin(gender_ambivalent), 'gender ambivalent',
                                          play_df['gender'])
-
         try:
             play_df = play_df.drop(columns=['Disgust', 'Anger', 'Joy', 'Sadness', 'Fear', 'Sentiment'])
         except:
             print('no extra cols')
 
         self.play_df = play_df
+        
+    def find_group_presence(self, character_list, raw_df, check_for_outsiders = True, lines_df = None):
+        """
+        character_list - list with all outsiders OR nobility in the play
+        check_for_outsiders - Should be True if adding an Outsider_Present column
+                            False for Nobility_Present column
+        raw_df - This is a dataframe without NLU data, it should contain the result from web-scraping
+        lines_df - This is a dataframe with NLU data for each line of a play, if this is not provided
+                The function will use self.play_df (Therefore, self.get_wnlu() should have been called already)
+
+        Will set self.play_df to the updated df
+
+        """
+        if lines_df is None:
+            lines_df = self.play_df
+
+        try:
+            self.lines_df = self.lines_df.rename(columns={"text": "CONTENT"})
+        except:
+            pass
+
+        df = raw_df.copy()
+        df.speaker = df.speaker.fillna('')
+        df.speaker = df.speaker.apply(lambda x: x.upper())
+        df = df.rename(columns={"text_cleaned": "CONTENT"})
+        df.speaker = df.speaker.astype(str)
+        df = finding_audience(df)
+
+        df = isolate_text(df, lines_df)
+
+        if not check_for_outsiders:
+            df['class'] = np.where(df['speaker_x'].isin(character_list), 'nobility', 'servant')
+
+        if check_for_outsiders:
+            df['Outsider_Present'] = df.apply(lambda x: check_for_character(x,character_list), axis=1)
+        else:
+            df['Nobility_Present'] = df.apply(lambda x: check_for_character(x,character_list), axis=1)
+
+
+        self.play_df = df
 
 
