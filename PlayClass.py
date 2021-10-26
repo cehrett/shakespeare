@@ -821,9 +821,11 @@ class Play:
         self.play_df = play_df
 
     def line_plot(self,
-                  smooth_window: int = 1,
-                  graph_title: str = None,
-                  mask: pd.Series = None):
+                  smooth_window: int = 1, # makes a window of lines to plot
+                  graph_title: str = None, # for saving the figure
+                  mask: pd.Series = None, # limits df if needed
+                  input_df = None,  # initializes df from input
+                  play_title = None): #if using input_df, use this str to isolate a play
         """
         This function uses the stored WNLU metadata to make a line plot. The line
         plot can be smoothed with smooth_window, and can be restricted in any way
@@ -831,10 +833,18 @@ class Play:
         """
 
         if graph_title == None: graph_title = self.graph_title
-        play_df = self.play_df
+        if input_df is not None:
+          play_df = input_df.copy()
+          play_df = play_df[play_df['title'] == play_title]
+        else:
+          try:
+            play_df = self.play_df
+          except:
+            print('No Play has been scraped yet')
 
         if mask is not None:
             play_df = play_df[mask]
+      
 
         # Getting lists for plotting tick marks
         xticks = get_ticks(play_df)
@@ -843,15 +853,19 @@ class Play:
         play_df = play_df[play_df['nlu_status'] == 'pass']
 
         # Rename columns
-        rename_map = {'CONTENT': 'text', 'sentiment_score': 'sentiment', 'emotion_anger': 'anger',
+        rename_map = {'sentiment_score': 'sentiment', 'emotion_anger': 'anger',
                       'emotion_disgust': 'disgust', 'emotion_fear': 'fear', 'emotion_joy': 'joy',
                       'emotion_sadness': 'sadness'}
         play_df.rename(columns=rename_map, inplace=True)
+        
+    
+        play_df = play_df[play_df['type'] == 'line']
 
         # Aggregate individual tlns that have same speaker. Concatenate line text, and mean the sentiment/emotion scores. About 200 of these lines.
         aggregation_map = {'text': ' '.join, 'sentiment': np.mean, 'anger': np.mean, 'disgust': np.mean,
                            'fear': np.mean, 'joy': np.mean, 'sadness': np.mean}
-        play_df = play_df.groupby(['tln', 'speaker', 'scene', 'year'], as_index=False).agg(aggregation_map)
+   
+        play_df = play_df.groupby(['tln', 'speaker', 'title'], as_index=False).agg(aggregation_map)
 
         # Remove square brackets from some speaker strings
         play_df['speaker'] = play_df['speaker'].str.replace('[', '').str.replace(']', '')
@@ -868,6 +882,7 @@ class Play:
         # Plotting line graphs for each emotion/sentiment score
         for score_type, num in zip(score_types, range(1, 7)):
             ax = fig.add_subplot(3, 2, num)
+         
             rolling_average_comparison(play_df, ax=ax, score_type=score_type, window=smooth_window,
                                        character=graph_title, ticks=xticks)
             sns.despine(right=True, left=True, bottom=True)
@@ -877,7 +892,7 @@ class Play:
         plt.subplots_adjust(hspace=.45)
 
         plt.savefig(graph_title + '_scores.png')
-
+        
     def box_plot(self,
                  graph_title: str = None,
                  speaker_list: list = [''],
