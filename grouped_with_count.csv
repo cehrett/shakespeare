@@ -1,0 +1,626 @@
+,Labeled Data,DataRow ID,Compassion,Aggression,Count
+0,"  A murderer and a villain, A slave that is not twentieth part the tithe  Of your precedent lord, a vice of kings, A cutpurse of the empire and the rule, That from a shelf the precious diadem stole And put it in his pocket--",ckqi3joq1ebwt0yu3goiccmr6,0.0,2.0,3
+1,"  I shall obey you. And for your part, Ophelia, I do wish That your good beauties be the happy cause Of Hamlet's wildness. So shall I hope your virtues Will bring him to his wonted way again, To both your honors.",ckqi3jopfeaed0yu3c0kg9hvv,3.0,0.0,3
+2,"  Lay her i'th'earth, And from her fair and unpolluted flesh May violets spring! I tell thee, churlish priest, A minist'ring angel shall my sister be When thou liest howling. Hamlet  What, the fair Ophelia? Queen  Sweets to the sweet! Farewell. I hoped thou shouldst have been my Hamlet's wife. I thought thy bride-bed to have decked, sweet maid, And not t'have strewed thy grave.   Oh, terrible woe  Fall ten times treble on that cursèd head Whose wicked deed thy most ingenious sense Deprived thee of! Hold off the earth awhile, Till I have caught her once more in mine arms.  Now pile your dust upon the quick and dead, Till of this flat a mountain you have made To o'ertop old Pelion, or the skyish head Of blue Olympus. Hamlet  What is he whose griefs  Bears such an emphasis, whose phrase of sorrow Conjure the wand'ring stars, and makes them stand Like wonder-wounded hearers? This is I, Hamlet the Dane. LaertesThe devil take thy soul!",ckqi3joobe8eu0yu3bx0dcm97,3.0,3.0,3
+3,"  Nay, but to live In the rank sweat of an enseamèd bed, Stewed in corruption, honeying and making love Over the nasty sty!",ckqi3joohe8tp0yu3g35a60r9,0.0,1.0,3
+4,"  Such an act That blurs the grace and blush of modesty, Calls virtue hypocrite, takes off the rose From the fair forehead of an innocent love And makes a blister there, makes marriage vows As false as dicers' oaths--oh, such a deed As from the body of contraction plucks The very soul, and sweet religion makes A rhapsody of words. Heaven's face doth glow, Yea, this solidity and compound mass, With tristful visage as against the doom, Is thought-sick at the act.",ckqi3joope9k30yu3diiqgl2d,0.0,1.0,2
+5, Do they hold the same estimation they did  when I was in the city? Are they so followed?,ckqi3joo5e8270yu3hcf7eabx,0.0,0.0,3
+6, Dost thou think Alexander looked o' this  fashion i'th'earth?,ckqi3jopoeall0yu3auy60slh,0.0,0.0,3
+7," Dream on thy cousins smother'd in the Tower: Let us be led within thy bosom, Richard, And weigh thee down to ruin, shame, and death! Thy nephews' souls bid thee despair and die! Sleep, Richmond, sleep in peace, and wake in joy; Good angels guard thee from the boar's annoy! Live, and beget a happy race of kings! Edward's unhappy sons do bid thee flourish.",ckqi3jooie8ww0yu349nlawf6,3.0,2.0,4
+8," Follow him, friends. We'll hear a play  tomorrow.  Dost thou hear me, old friend, can you play The Murder of Gonzago?",ckqi3jopfeady0yu3g2afcxlm,3.0,0.0,3
+9, Give me some light. Away!,ckqi3joo8e8950yu394i9g5va,0.0,0.0,3
+10," Good my lord, put your discourse into some  frame, and start not so wildly from my affair.",ckqi3jooee8kt0yu3h75k3qbg,0.0,0.0,3
+11," Haste, haste me to know it,  that with wings as swift  As meditation, or the thoughts of love, May sweep to my revenge.",ckqi3jop9e9wg0yu330pfdn38,0.0,2.0,4
+12," He will come straight.  Look you lay home to him. Tell him his pranks have been too broad to bear with, And that your grace hath screened and stood between Much heat and him. I'll silence me e'en here. Pray you, be round with him. Hamletwithin Mother, mother, mother!",ckqi3joo8e88b0yu36845bi24,0.0,0.0,3
+13," I am lost in it, my lord. But let him come. It warms the very sickness in my heart That I shall live and tell him to his teeth ""Thus diddest thou.""",ckqi3joofe8nq0yu34vrf913z,0.0,2.0,3
+14," I do not think so. Since he went into France,  I have been in continual practice; I shall win at the  odds. But thou wouldest not think how all here  about my heart, but it is no matter.",ckqi3jop7e9rq0yu3aeg94qva,0.0,0.0,3
+15," Let not thy mother lose her prayers, Hamlet.  I prithee stay with us, go not to Wittenberg.",ckqi3jopseb2j0yu3esaba05o,0.0,0.0,3
+16," Marry, I'll teach you. Think yourself a baby, That you have ta'en his tenders for true pay Which are not sterling. Tender yourself more dearly, Or--not to crack the wind of the poor phrase Roaming it thus--you'll tender me a fool.",ckqi3jopvebbu0yu3a82de0aa,1.0,0.0,3
+17, No more!,ckqi3jooje8yk0yu35qywdve6,0.0,0.0,3
+18," Prison, my lord?",ckqi3jopyeblz0yu35c577qhu,0.0,0.0,3
+19," Sailors, sir. They say they have letters for you.",ckqi3jopeeac00yu3c60zblq6,0.0,0.0,1
+20," So you mistake husbands.--  Begin, murderer. Pox, leave thy damnable faces and  begin. Come, the croaking raven doth bellow for  revenge.",ckqi3jop8e9sz0yu31w7wb0gd,0.0,2.0,2
+21, Swear.,ckqi3jopyebn80yu3gtplbwup,0.0,0.0,2
+22," The lady protests too much, methinks.",ckqi3jopzebr90yu38kavb1fa,0.0,0.0,3
+23," Welcome, dear Rosencrantz and Guildenstern. Moreover that we much did long to see you, The need we have to use you did provoke Our hasty sending. Something have you heard Of Hamlet's transformation--so I call it, Since not th'exterior nor the inward man Resembles that it was. What it should be, More than his father's death, that thus hath put him So much from th'understanding of himself, I cannot deem of. I entreat you both That, being of so young days brought up with him, And since so neighbored to his youth and humor, That you vouchsafe your rest here in our court Some little time, so by your companies To draw him on to pleasures, and to gather So much as from occasions you may glean That, opened, lies within our remedy.",ckqi3jop8e9u30yu3h6dc8dxh,3.0,0.0,3
+24," Will you ha' the truth on't? If this had not  been a gentlewoman, she should have been buried  out of Christian burial.",ckqi3jopfeade0yu35dgk5pvy,0.0,1.0,4
+25," Without, my lord, guarded, to know your  pleasure.",ckqi3joope9jj0yu37il97x2k,0.0,0.0,3
+26," Your grace shall understand that at the receipt of your letter I am very sick: but in the instant that your messenger came, in loving visitation was with me a young doctor of Rome; his name is Balthasar. I acquainted him with the cause in controversy between the Jew and Antonio the merchant: we turned o'er many books together: he is furnished with my opinion; which, bettered with his own learning, the greatness whereof I cannot enough commend, comes with him, at my importunity, to fill up your grace's request in my stead. I beseech you, let his lack of years be no impediment to let him lack a reverend estimation; for I never knew so young a body with so old a head. I leave him to your gracious acceptance, whose trial shall better publish his commendation.",ckqi3jopfeafh0yu3dhjsemkc,3.0,0.0,3
+27,"""Go to, thou art made, if thou desir'st to be so--""",ckqi3jooce8hm0yu33y2v7itf,0.0,0.0,3
+28,"""To the unknown belovèd, this, and my good wishes."" Her very phrases! By your leave, wax. Soft! And the  impressure her Lucrece, with which she uses to seal. 'Tis my  lady! To whom should this be?",ckqi3jopxebk10yu314x94ow3,2.0,0.0,2
+29,"'Alla nostra casa ben venuto, molto honorato signor mio Petruchio.' Rise, Grumio, rise: we will compound this quarrel.",ckqi3jopbea1b0yu3byb797xv,1.0,0.0,3
+30,"'Bless thee, bully-doctor.",ckqi3joppeaox0yu30qd8h8r6,1.0,0.0,2
+31,"'Imprimis, a loose-bodied gown:'",ckqi3jopwebh40yu38pirflzt,0.0,0.0,3
+32,"'Slight, will you make an ass o'me?",ckqi3jooke93u0yu38hgcd4vc,0.0,1.0,3
+33,'Tis a fault I will not change for your best virtue. I am weary of you.,ckqi3joo8e89k0yu33cvt3xv7,0.0,3.0,3
+34,"'Tis certain there's not a boy left alive; and the cowardly rascals that ran from the battle ha' done this slaughter: besides, they have burned and carried away all that was in the king's tent; wherefore the king, most worthily, hath caused every soldier to cut his prisoner's throat. O, 'tis a gallant king!",ckqi3jooce8iv0yu36vntg0c9,0.0,2.0,3
+35,'Tis full of thy foul wrongs.,ckqi3jopueb6p0yu3d5pcd7gs,0.0,2.0,2
+36,"'Tis true, fair daughter; and this blessed day Ever in France shall be kept festival: To solemnize this day the glorious sun Stays in his course and plays the alchemist, Turning with splendor of his precious eye The meagre cloddy earth to glittering gold: The yearly course that brings this day about Shall never see it but a holiday.",ckqi3joome98p0yu3fv1rghzm,0.0,0.0,3
+37,"'Tis true. There's magic in the web of it: A sybil that had numbered in the world The sun to course two hundred compasses, In her prophetic fury sewed the work; The worms were hallowed that did breed the silk, And it was dyed in mummy, which the skillful Conserved of maidens' hearts.",ckqi3jooqe9ot0yu3deun4bpf,0.0,0.0,3
+38,"'Tis well blown, lads: This morning, like the spirit of a youth That means to be of note, begins betimes. So, so; come, give me that: this way; well said. Fare thee well, dame, whate'er becomes of me: This is a soldier's kiss: rebukeable And worthy shameful cheque it were, to stand On more mechanic compliment; I'll leave thee Now, like a man of steel. You that will fight, Follow me close; I'll bring you to't. Adieu.",ckqi3joq0ebug0yu39d7g0x69,1.0,0.0,3
+39,'With a small compassed cape:',ckqi3jopzebqa0yu3ho2sh3yo,0.0,0.0,4
+40,"A gentleman of Tyre; my name, Pericles; My education been in arts and arms; Who, looking for adventures in the world, Was by the rough seas reft of ships and men, And after shipwreck driven upon this shore.",ckqi3joone9cq0yu3b6xz7qhv,0.0,0.0,3
+41,A hundred then.,ckqi3jooqe9mv0yu3fxr77jy2,0.0,0.0,3
+42,A kissing traitor. How art thou proved Judas?,ckqi3jopteb470yu34rt54gxz,0.0,2.0,3
+43,"A mark! O, mark but that mark! A mark, says my lady! Let the mark have a prick in't, to mete at, if it may be.",ckqi3jooie8vd0yu370ndflvy,0.0,0.0,3
+44,"A mighty man of Pisa; by report I know him well: you are very welcome, sir, Take you the lute, and you the set of books; You shall go see your pupils presently. Holla, within! Sirrah, lead these gentlemen To my daughters; and tell them both, These are their tutors: bid them use them well. We will go walk a little in the orchard, And then to dinner. You are passing welcome, And so I pray you all to think yourselves.",ckqi3jopwebgp0yu3gkwn431r,3.0,0.0,3
+45,A pair of star-cross'd lovers take their life;,ckqi3jopbea0h0yu3a27y0lvn,0.0,0.0,4
+46,"A pox on't, let it go; 'tis but a drum.",ckqi3jopqeasj0yu3dv37cgbm,0.0,0.0,2
+47,"A proper squire! And who, and who? which way looks he?",ckqi3joope9lc0yu32ywn1kvx,0.0,0.0,1
+48,"A round hose, madam, now's not worth a pin, Unless you have a codpiece to stick pins on.",ckqi3joq0ebv50yu367be6w95,0.0,0.0,4
+49,"A traveller! By my faith, you have great reason to be sad: I fear you have sold your own lands to see other men's; then, to have seen much and to have nothing, is to have rich eyes and poor hands.",ckqi3joobe8ep0yu3btbn1ca9,1.0,0.0,4
+50,"A widow, then?",ckqi3jopvebbk0yu38nk00rue,0.0,0.0,2
+51,"A' said once, the devil would have him about women.",ckqi3jopdea5r0yu30055dwoj,0.0,0.0,3
+52,"AEneas is a-field; And I do stand engaged to many Greeks, Even in the faith of valour, to appear This morning to them.",ckqi3joome9a80yu30qofeu3u,0.0,0.0,4
+53,"About the ninth hour, lady.",ckqi3jop7e9r60yu3d7iaf9iy,0.0,0.0,4
+54,Accursed be he that seeks to make them foes!,ckqi3joq0ebu10yu3gi2713i7,0.0,3.0,3
+55,"Achilles bids me say, he is much sorry, If any thing more than your sport and pleasure Did move your greatness and this noble state To call upon him; he hopes it is no other But for your health and your digestion sake, And after-dinner's breath.",ckqi3jooie8w70yu3hafu18vp,2.0,0.0,3
+56,"Adieu! tears exhibit my tongue. Most beautiful pagan, most sweet Jew! if a Christian did not play the knave and get thee, I am much deceived. But, adieu: these foolish drops do something drown my manly spirit: adieu.",ckqi3jopcea340yu3fh2weqip,0.0,1.0,1
+57,"Alas, it is the baseness of thy fear That makes thee strangle thy propriety. Fear not, Cesario, take thy fortunes up, Be that thou know'st thou art, and then thou art As great as that thou fear'st. O welcome, father! Father, I charge thee by thy reverence Here to unfold (though lately we intended To keep in darkness what occasion now Reveals before 'tis ripe) what thou dost know Hath newly passed between this youth and me.",ckqi3joppeapm0yu3gvil2cgk,3.0,0.0,3
+58,"Alas, you know, 'tis far from hence to France; How could he stay till Warwick made return?",ckqi3joq0ebvz0yu31xqb67rp,0.0,0.0,3
+59,All victuallers do so; what's a joint of mutton or two in a whole Lent?,ckqi3jopyebme0yu3gnedhtim,0.0,0.0,3
+60,"Am I that name, Iago?",ckqi3jopweber0yu3ahz4er8m,0.0,0.0,2
+61,"An if my hand be out, then belike your hand is in.",ckqi3jopvebcj0yu3ftya9k3e,0.0,0.0,4
+62,"And 'twas time for him too, I'll warrant him that: an he had stayed by him, I would not have been so fidiused for all the chests in Corioli, and the gold that's in them. Is the senate possessed of this?",ckqi3jooje9080yu36f4lc805,0.0,0.0,3
+63,And I must be from thence!  My wife killed too?,ckqi3jooae8dl0yu34krb1l4o,0.0,0.0,3
+64,And I'll go to bed at noon.,ckqi3joppeap70yu3bhckchvf,0.0,0.0,3
+65,And I'll grow friend with danger. Wear this sleeve.,ckqi3jopzebsi0yu3dypag2oe,0.0,0.0,2
+66,And have you?,ckqi3joohe8u90yu34ljn7tju,0.0,0.0,2
+67,And he of these that can do most of all Cannot do more in England than the Nevils: Salisbury and Warwick are no simple peers.,ckqi3joole9670yu3batz4sby,0.0,0.0,3
+68,And how accompanied? canst thou tell that?,ckqi3joofe8mw0yu3asc73hkr,0.0,0.0,3
+69,And how was that ta'en up?,ckqi3jopzebr40yu3crje9l8q,0.0,0.0,4
+70,"And so do I. Victorious Prince of York, Before I see thee seated in that throne Which now the house of Lancaster usurps, I vow by heaven these eyes shall never close. This is the palace of the fearful king, And this the regal seat: possess it, York; For this is thine and not King Henry's heirs'",ckqi3joo5e83l0yu36ups9zdg,2.0,0.0,2
+71,"And so we will, provided that he win her.",ckqi3jopseb2y0yu36rpq0e1l,0.0,0.0,3
+72,"And that is more than I will yield unto: I know I am too mean to be your queen, And yet too good to be your concubine.",ckqi3jopeeaca0yu37ze6bj4z,1.0,0.0,3
+73,"And that well might Advise him to a caution, t'hold what distance His wisdom can provide. Some holy angel Fly to the court of England and unfold His message ere he come, that a swift blessing May soon return to this our suffering country Under a hand accursed.",ckqi3joole98a0yu32ngd89j0,0.0,1.0,3
+74,"And what of him, Tranio?",ckqi3joome9bm0yu3299k7wau,0.0,0.0,2
+75,"And yet, forsooth, she is a virgin pure. Strumpet, thy words condemn thy brat and thee: Use no entreaty, for it is in vain.",ckqi3jopbea1q0yu3f99whecb,0.0,1.0,3
+76,"And you are well met, Signior Hortensio. Trow you whither I am going? To Baptista Minola. I promised to inquire carefully About a schoolmaster for the fair Bianca: And by good fortune I have lighted well On this young man, for learning and behavior Fit for her turn, well read in poetry And other books, good ones, I warrant ye.",ckqi3jopseb2o0yu386p7bzyg,2.0,0.0,2
+77,"As ever you came of women, come in quickly to Sir John. Ah, poor heart! he is so shaked of a burning quotidian tertian, that it is most lamentable to behold. Sweet men, come to him.",ckqi3jopwebec0yu3a34j49qr,1.0,0.0,2
+78,"As many devils entertain, and ""To her, boy!"" say I.",ckqi3jopneajn0yu37oa41jyc,0.0,0.0,2
+79,"As well as we! ay, and better too; we offend worse. Neither is our profession any trade; it's no calling. But here comes Boult.",ckqi3jopxebkb0yu35xxz2xez,0.0,1.0,3
+80,At thy good heart's oppression.,ckqi3jopbea0w0yu34i9qfgkz,1.0,0.0,4
+81,"Aumerle that was; But that is lost for being Richard's friend, And, madam, you must call him Rutland now: I am in parliament pledge for his truth And lasting fealty to the new-made king.",ckqi3jopgeagg0yu34cwq1l1q,0.0,0.0,1
+82,"Away, Away, you trifler! Love! I love thee not, I care not for thee, Kate: this is no world To play with mammets and to tilt with lips: We must have bloody noses and crack'd crowns, And pass them current too. God's me, my horse! What say'st thou, Kate? what would'st thou have with me?",ckqi3jopfead40yu3868lhdlp,0.0,2.0,3
+83,"Away, Thou tedious rogue! I am sorry I shall lose A stone by thee.",ckqi3jopneakc0yu3dhqk17ov,0.0,3.0,3
+84,"Ay, Marcius, Caius Marcius: dost thou think I'll grace thee with that robbery, thy stol'n name Coriolanus in Corioli? You lords and heads o' the state, perfidiously He has betray'd your business, and given up, For certain drops of salt, your city Rome, I say 'your city,' to his wife and mother; Breaking his oath and resolution like A twist of rotten silk, never admitting Counsel o' the war, but at his nurse's tears He whined and roar'd away your victory, That pages blush'd at him and men of heart Look'd wondering each at other.",ckqi3jooge8ou0yu3ewm78dgs,0.0,2.0,3
+85,"Ay, and briefly.",ckqi3jooke94o0yu3f7vzf418,0.0,0.0,3
+86,"Ay, and perversely she persevers so. What might we do to make the girl forget The love of Valentine and love Sir Thurio?",ckqi3jopwebfg0yu3fc3xg4et,0.0,0.0,3
+87,"Ay, ay, Antipholus, look strange and frown: Some other mistress hath thy sweet aspects; I am not Adriana nor thy wife. The time was once when thou unurged wouldst vow That never words were music to thine ear, That never object pleasing in thine eye, That never touch well welcome to thy hand, That never meat sweet-savor'd in thy taste, Unless I spake, or look'd, or touch'd, or carved to thee. How comes it now, my husband, O, how comes it, That thou art thus estranged from thyself? Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self's better part. Ah, do not tear away thyself from me! For know, my love, as easy mayest thou fall A drop of water in the breaking gulf, And take unmingled that same drop again, Without addition or diminishing, As take from me thyself and not me too. How dearly would it touch me to the quick, Shouldst thou but hear I were licentious And that this body, consecrate to thee, By ruffian lust should be contaminate! Wouldst thou not spit at me and spurn at me And hurl the name of husband in my face And tear the stain'd skin off my harlot-brow And from my false hand cut the wedding-ring And break it with a deep-divorcing vow? I know thou canst; and therefore see thou do it. I am possess'd with an adulterate blot; My blood is mingled with the crime of lust: For if we too be one and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion. Keep then far league and truce with thy true bed; I live unstain'd, thou undishonoured. ANTIPHOLUS",ckqi3jopteb4h0yu3aavcahy1,1.0,3.0,4
+88,"Ay, forsooth, I have spoke with her, and we have  a nay-word how to know one another. I come to her  in white, and cry ""mum""; she cries ""budget,"" and by that  we know one another.",ckqi3joq0ebuq0yu3a78r8kwe,0.0,0.0,4
+89,"Ay, good brother, or go about to think.",ckqi3jooje90n0yu398ac3zd1,0.0,0.0,3
+90,"Ay, if I ever saw him before and knew him.",ckqi3joo6e84p0yu39c7r0o8i,0.0,0.0,3
+91,"Ay, my good lord, he's dead.",ckqi3jopzebpl0yu3cb9m27zc,0.0,0.0,3
+92,"Ay, sir; and he deserves so to be called for his peaceable reign and good government.",ckqi3jopbe9zs0yu3dsspen8m,3.0,0.0,3
+93,"Ay, so please your majesty. The Duke of Exeter has very gallantly maintained the pridge: the French is gone off, look you; and there is gallant and most prave passages; marry, th' athversary was have possession of the pridge; but he is enforced to retire, and the Duke of Exeter is master of the pridge: I can tell your majesty, the duke is a prave man.",ckqi3jop9e9vr0yu3bpbvckck,2.0,0.0,3
+94,"Ay, so the turn were served.",ckqi3joofe8ld0yu3ewy74lye,0.0,0.0,2
+95,"Ay, that's well known: But what particular rarity? what strange, Which manifold record not matches? See, Magic of bounty! all these spirits thy power Hath conjured to attend. I know the merchant.",ckqi3joope9l70yu3gx614wr4,0.0,0.0,3
+96,"Ay, there's the point, sir.",ckqi3jopueb880yu3cppj6nke,0.0,0.0,3
+97,"Ay, though it look like thee.",ckqi3jopwebhj0yu398m79eb0,0.0,0.0,3
+98,"Ay, too gentle.",ckqi3jooee8jp0yu3137h36bv,0.0,0.0,3
+99,"Ay, why not? Grace is grace, despite of all controversy: as, for example, thou thyself art a wicked villain, despite of all grace.",ckqi3joome9an0yu3h8gedhmr,0.0,2.0,3
+100,"Ay: But soon that war had end, and the time's state Made friends of them, joining their force 'gainst Caesar; Whose better issue in the war, from Italy, Upon the first encounter, drave them.",ckqi3joo6e8680yu3euetck9d,0.0,0.0,4
+101,Bait the hook well; this fish will bite.,ckqi3jooie8xg0yu3g849h27p,0.0,0.0,2
+102,"Bardolph, am I not fallen away vilely since this last action? do I not bate? do I not dwindle? Why my skin hangs about me like an like an old lady's loose gown; I am withered like an old apple-john. Well, I'll repent, and that suddenly, while I am in some liking; I shall be out of heart shortly, and then I shall have no strength to repent. An I have not forgotten what the inside of a church is made of, I am a peppercorn, a brewer's horse: the inside of a church! Company, villanous company, hath been the spoil of me.",ckqi3jopcea430yu30r6ce3m7,0.0,2.0,4
+103,"Barely in title, not in revenue.",ckqi3jopxebjh0yu32cp6eegu,0.0,0.0,3
+104,"Be bloody, bold and resolute;  laugh to scorn The power of man, for none of woman born Shall harm Macbeth.",ckqi3jopdea660yu38wj1eubk,0.0,1.0,3
+105,"Be it a lordship, thou shalt have it for that word.",ckqi3joooe9gr0yu3bpa9fhuh,0.0,0.0,3
+106,"Bear mine to him, and so depart in peace: Be thou as lightning in the eyes of France; For ere thou canst report I will be there, The thunder of my cannon shall be heard: So hence! Be thou the trumpet of our wrath And sullen presage of your own decay. An honourable conduct let him have: Pembroke, look to 't. Farewell, Chatillon.",ckqi3jopvebb50yu36bpq2tt9,1.0,0.0,2
+107,"Beseech you, give me leave to retire myself.",ckqi3jooqe9nz0yu3gbedgzi0,0.0,0.0,3
+108,"Beseech your highness, call the queen again.",ckqi3jooie8vs0yu32xqmc4d9,0.0,0.0,3
+109,Beware the ides of March.,ckqi3joohe8sg0yu3ft6l8910,0.0,1.0,4
+110,"Bid her have good heart: She soon shall know of us, by some of ours, How honourable and how kindly we Determine for her; for Caesar cannot live To be ungentle.",ckqi3joq0ebt70yu38v810peo,2.0,0.0,3
+111,"Book of riddles? Why, did you not lend it to  Alice Shortcake upon Allhallowmas last, a fortnight a fore Michaelmas?",ckqi3jopueb7e0yu3202w8lp1,0.0,0.0,3
+112,"Brave slip, sprung from the great Andronicus, Whose name was once our terror, now our comfort; Whose high exploits and honourable deeds Ingrateful Rome requites with foul contempt, Be bold in us: we'll follow where thou lead'st, Like stinging bees in hottest summer's day Led by their master to the flowered fields, And be avenged on cursed Tamora.",ckqi3jop8e9su0yu3g09zezgu,2.0,1.0,3
+113,Brother Troilus!,ckqi3joq0ebva0yu387fr3me8,0.0,0.0,3
+114,"But he loves Caesar best; yet he loves Antony: Ho! hearts, tongues, figures, scribes, bards, poets, cannot Think, speak, cast, write, sing, number, ho! His love to Antony. But as for Caesar, Kneel down, kneel down, and wonder.",ckqi3jooje8z40yu39y39hwun,1.0,0.0,1
+115,"But little: I am arm'd and well prepared. Give me your hand, Bassanio: fare you well! Grieve not that I am fallen to this for you; For herein Fortune shows herself more kind Than is her custom: it is still her use To let the wretched man outlive his wealth, To view with hollow eye and wrinkled brow An age of poverty; from which lingering penance Of such misery doth she cut me off. Commend me to your honourable wife: Tell her the process of Antonio's end; Say how I loved you, speak me fair in death; And, when the tale is told, bid her be judge Whether Bassanio had not once a love. Repent but you that you shall lose your friend, And he repents not that he pays your debt; For if the Jew do cut but deep enough, I'll pay it presently with all my heart.",ckqi3jopgeaj30yu33nn9egx1,2.0,0.0,3
+116,But repetition of what thou hast marr'd; That will I make before I let thee go.,ckqi3joooe9hl0yu37ymjehzx,0.0,2.0,3
+117,But shall I live in hope?,ckqi3jopfeadt0yu3b7qh2fgw,0.0,0.0,4
+118,But so is not she.,ckqi3jopbea020yu36d2j59yg,0.0,0.0,4
+119,"But tell me, dost thou know my lady Silvia?",ckqi3joohe8tf0yu3d7yg8g4p,0.0,0.0,2
+120,"But well, when I discourse of love and peace?",ckqi3jopcea480yu37t43fjwe,0.0,0.0,3
+121,But while I say one prayer.,ckqi3jooqe9oj0yu3934x799e,0.0,0.0,2
+122,"But, my good lord, How now for mitigation of this bill Urged by the commons? Doth his majesty Incline to it, or no?",ckqi3jopzebq00yu35oc7fufp,0.0,0.0,3
+123,"By gar, he has save his soul, dat he is no come.  He has pray his pible well, dat he is no come. By gar,  Jack Rugby, he is dead already, if he be come.",ckqi3jopqeau20yu35hy203xi,0.0,1.0,3
+124,"By heaven, methinks it were an easy leap, To pluck bright honour from the pale-faced moon, Or dive into the bottom of the deep, Where fathom-line could never touch the ground, And pluck up drowned honour by the locks; So he that doth redeem her thence might wear Without corrival, all her dignities: But out upon this half-faced fellowship!",ckqi3jopdea7k0yu31mz52k9h,0.0,0.0,1
+125,"By heaven, that should be my handkerchief!",ckqi3jopvebc90yu37ifif2b1,0.0,0.0,3
+126,By her he had two children at one birth.,ckqi3joobe8h70yu30xkz66hh,0.0,0.0,3
+127,"Came you from Padua, from Bellario?",ckqi3jopxebid0yu38app7ieg,0.0,0.0,3
+128,"Cassio, my lord? No sure, I cannot think it That he would steal away so guilty-like, Seeing your coming.",ckqi3jopreawz0yu3gdc27zcu,0.0,0.0,2
+129,"Come on, my lords, the better foot before: Straight will I bring you to the loathsome pit Where I espied the panther fast asleep.",ckqi3jooce8j50yu3bxls9mup,0.0,0.0,4
+130,"Come on, sir.",ckqi3jooke9260yu3cylj2adr,0.0,0.0,3
+131,"Come, Antony! Away! Defiance, traitors, hurl we in your teeth! If you dare fight today, come to the field; If not, when you have stomachs!",ckqi3jopfeafm0yu31n3a12if,0.0,2.0,2
+132,"Come, come, you're mocking: we will have no telling.",ckqi3joo8e88q0yu339h06sc9,0.0,0.0,3
+133,"Come, let's in all.",ckqi3jooce8i10yu3ebrychtf,0.0,0.0,3
+134,"Come, my captain knows you not.",ckqi3jooje90i0yu34f880p2s,0.0,0.0,4
+135,"Come, officer, away!",ckqi3jooie8vn0yu3awyfdu8y,0.0,1.0,4
+136,"Come, shelter, shelter: I have removed Falstaff's horse, and he frets like a gummed velvet.",ckqi3joo8e88g0yu39osv4i0n,0.0,0.0,2
+137,"Come, to the port. I'll tell thee, Diomed, This brave shall oft make thee to hide thy head. Lady, give me your hand, and, as we walk, To our own selves bend we our needful talk.",ckqi3joo5e82m0yu3ejc3hlfc,0.0,0.0,3
+138,"Confirm'd, confirm'd! O, that is stronger made Which was before barr'd up with ribs of iron! Would the two princes lie, and Claudio lie, Who loved her so, that, speaking of her foulness, Wash'd it with tears? Hence from her! let her die.",ckqi3jopeea9s0yu33m4974zd,0.0,2.0,3
+139,"Cousin, farewell: what presence must not know, From where you do remain let paper show.",ckqi3joope9ip0yu3elm3269c,0.0,0.0,4
+140,"De neck, madame.",ckqi3jopvebb00yu33xm7hxyi,0.0,0.0,3
+141,"Dear general, I never gave you cause.",ckqi3jopzebsd0yu31hb4ce1n,0.0,0.0,3
+142,Did he write this?,ckqi3jooae8cc0yu36dp10vv1,0.0,0.0,3
+143,"Dismayed not this our captains, Macbeth and  Banquo?",ckqi3jooje9120yu30xwe5np3,0.0,0.0,3
+144,"Do you hear, ho? you must meet my master to countenance my mistress.",ckqi3jopbea1g0yu31xe84sqm,0.0,0.0,2
+145,Do you not hear him? You mar our labor.  Keep your cabins! You do assist the storm.,ckqi3jooae8cw0yu3g0ft9ml8,0.0,0.0,2
+146,"Do, good William.",ckqi3jopyeboc0yu38z9f8230,0.0,0.0,3
+147,Do. Remember your bold life too.,ckqi3jooge8of0yu333lb4vkk,0.0,0.0,3
+148,Dolabella!,ckqi3jopwebe70yu30pd22mju,0.0,0.0,3
+149,Dost thou forget From what a torment I did free thee?,ckqi3jopeeaac0yu32pp47bof,1.0,0.0,2
+150,E'en such as you speak to me.,ckqi3jopzebqp0yu36t9744f6,0.0,0.0,4
+151,"Even as a flattering dream or worthless fancy. Then take him up and manage well the jest: Carry him gently to my fairest chamber And hang it round with all my wanton pictures: Balm his foul head in warm distilled waters And burn sweet wood to make the lodging sweet: Procure me music ready when he wakes, To make a dulcet and a heavenly sound; And if he chance to speak, be ready straight And with a low submissive reverence Say 'What is it your honour will command?' Let one attend him with a silver basin Full of rose-water and bestrew'd with flowers, Another bear the ewer, the third a diaper, And say 'Will't please your lordship cool your hands?' Some one be ready with a costly suit And ask him what apparel he will wear; Another tell him of his hounds and horse, And that his lady mourns at his disease: Persuade him that he hath been lunatic; And when he says he is, say that he dreams, For he is nothing but a mighty lord. This do and do it kindly, gentle sirs: It will be pastime passing excellent, If it be husbanded with modesty.",ckqi3joppeas40yu339ah168v,2.0,0.0,2
+152,"Even he, your wife, this lady, and myself, Are suitors to you.",ckqi3joo9e8b30yu3d3ltfos5,0.0,0.0,3
+153,Even so great men great losses should endure.,ckqi3jopbea070yu32c5482h6,0.0,0.0,3
+154,"Fair one, I think not so.",ckqi3joq0ebtm0yu3ebba03ev,0.0,0.0,3
+155,"Fairest Cordelia, that art most rich, being poor, Most choice, forsaken, and most loved, despised, Thee and thy virtues here I seize upon. Be it lawful I take up what's cast away. Gods, gods! 'Tis strange, that from their cold'st neglect My love should kindle to inflamed respect. Thy dowerless daughter, King, thrown to my chance, Is queen of us, of ours, and our fair France. Not all the dukes of waterish Burgundy, Can buy this unprized precious maid of me. Bid them farewell, Cordelia, though unkind. Thou losest here a better where to find.",ckqi3jopteb4m0yu3gls52glk,3.0,0.0,3
+156,"Farewell, Andronicus: Revenge now goes To lay a complot to betray thy foes.",ckqi3joo9e8b80yu3daef0tk2,0.0,1.0,3
+157,"Farewell, hostess.",ckqi3joooe9i00yu32ve8gp2f,0.0,0.0,3
+158,Farewell: I'll grow a talker for this gear.,ckqi3joooe9f30yu39b5kbghp,0.0,0.0,3
+159,"Fetch forth the stocks! As I have life and honor, there shall he sit till noon.",ckqi3jopeeaa70yu3fkiiarmw,0.0,2.0,3
+160,"Fetch him off, I pray you, he speaks nothing but  madman. Fie on him! Go you, Malvolio; if it be a suit  from the count, I am sick, or not at home. What you  will, to dismiss it. Now you see, sir, how your fooling grows old, and  people dislike it.",ckqi3jopfeaes0yu31ksaauxb,0.0,2.0,2
+161,"Fetch me the handkerchief,  my mind misgives.",ckqi3jopteb3d0yu3gtsx6y35,0.0,0.0,3
+162,"Fie, what a question's that, If thou wert near a lewd interpreter! But come, I'll tell thee all my whole device When I am in my coach, which stays for us At the park gate; and therefore haste away, For we must measure twenty miles to-day.",ckqi3jopvebaq0yu396dg6c2s,0.0,0.0,2
+163,"Fly to the duke: Post thou to Salisbury When thou comest thither-- Dull, unmindful villain, Why stand'st thou still, and go'st not to the duke?",ckqi3joome9bw0yu38v230uce,0.0,2.0,3
+164,"For 'tis a sore upon us, You cannot tent yourself: be gone, beseech you.",ckqi3jooje9030yu3f2bz278m,0.0,2.0,4
+165,"For all the world As thou art to this hour was Richard then When I from France set foot at Ravenspurgh, And even as I was then is Percy now. Now, by my sceptre and my soul to boot, He hath more worthy interest to the state Than thou the shadow of succession; For of no right, nor colour like to right, He doth fill fields with harness in the realm, Turns head against the lion's armed jaws, And, being no more in debt to years than thou, Leads ancient lords and reverend bishops on To bloody battles and to bruising arms. What never-dying honour hath he got Against renowned Douglas! whose high deeds, Whose hot incursions and great name in arms Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge Christ: Thrice hath this Hotspur, Mars in swathling clothes, This infant warrior, in his enterprises Discomfited great Douglas, ta'en him once, Enlarged him and made a friend of him, To fill the mouth of deep defiance up And shake the peace and safety of our throne. And what say you to this? Percy, Northumberland, The Archbishop's grace of York, Douglas, Mortimer, Capitulate against us and are up. But wherefore do I tell these news to thee? Why, Harry, do I tell thee of my foes, Which art my near'st and dearest enemy? Thou that art like enough, through vassal fear, Base inclination and the start of spleen To fight against me under Percy's pay, To dog his heels and curtsy at his frowns, To show how much thou art degenerate.",ckqi3jooke9490yu311f93ne9,1.0,1.0,3
+166,For he fears none.,ckqi3joobe8f90yu3ak6r5l94,0.0,0.0,3
+167,From whom?,ckqi3jopqeatd0yu3cejz9wno,0.0,0.0,2
+168,"Gentle Mercutio, put thy rapier up.",ckqi3joole9530yu30kyuff7v,1.0,0.0,3
+169,"Gentlemen, forward to the bridal dinner: I see a woman may be made a fool, If she had not a spirit to resist.",ckqi3jopeea8j0yu30icw6a5s,0.0,0.0,4
+170,"Get him to bed, and let his hurt be looked to.",ckqi3jopzebrj0yu3hvy433tg,2.0,0.0,3
+171,"Get thee away. If for my sake Thou wilt o'ertake us hence a mile or twain I'th'way toward Dover, do it for ancient love, And bring some covering for this naked soul, Which I'll entreat to lead me.",ckqi3jopfeacz0yu3aioydpwb,1.0,1.0,4
+172,Give me your hand.,ckqi3jopeeaar0yu33j31a671,0.0,0.0,2
+173,Go after her. She's desperate--govern her.,ckqi3jopyebnn0yu3f6474661,0.0,0.0,2
+174,"Go to, farewell. Put money enough in your purse.",ckqi3jopteb5v0yu33fhzdk49,0.0,0.0,2
+175,"Go to; I say he shall have no wrong. Look about, Davy. Where are you, Sir John? Come, come, come, off with your boots. Give me your hand, Master Bardolph.",ckqi3jopgeah50yu3h3716ilu,0.0,0.0,3
+176,"Go, some of you convey him to the Tower.",ckqi3joohe8sl0yu3fytofj2n,0.0,0.0,3
+177,"Go, you cot-quean, go, Get you to bed; faith, You'll be sick to-morrow For this night's watching.",ckqi3jopdea750yu361qb65zz,0.0,1.0,2
+178,God be wi' you: let's meet as little as we can.,ckqi3jopgeagb0yu306gm49a8,0.0,0.0,3
+179,God grant him health! Did you confer with him?,ckqi3joo8e89f0yu34amw1y1p,3.0,0.0,4
+180,"Good gentlemen, let me have leave to speak. 'Tis proper I obey him, but not now. Perchance, Iago, I will ne'er go home.",ckqi3jopeeabl0yu3938aey7l,0.0,0.0,2
+181,"Good morrow, neighbour Gremio. God save you, gentlemen!",ckqi3jooke91w0yu3dqthadui,2.0,0.0,2
+182,Good morrow.,ckqi3jopueb740yu33ngu4sw2,0.0,0.0,2
+183,"Good night, good night.  God me such uses send, Not to pick bad from bad, but by bad, mend.",ckqi3jopcea4i0yu3c19p6fhp,1.0,0.0,4
+184,"Ha! art thou bedlam? dost thou thirst, base Trojan, To have me fold up Parca's fatal web? Hence! I am qualmish at the smell of leek.",ckqi3jopgeahz0yu3c8b5g79z,0.0,2.0,3
+185,"Hang her, I do but say what she is: so delicate  with her needle, an admirable musician--Oh, she will  sing the savageness out of a bear--of so high  plenteous wit and invention!",ckqi3jopoean40yu350cd1yue,3.0,1.0,3
+186,"Happily we met; the happier for thy son. And now by law, as well as reverend age, I may entitle thee my loving father: The sister to my wife, this gentlewoman, Thy son by this hath married. Wonder not, Nor be grieved: she is of good esteem, Her dowery wealthy, and of worthy birth; Beside, so qualified as may beseem The spouse of any noble gentleman. Let me embrace with old Vincentio, And wander we to see thy honest son, Who will of thy arrival be full joyous.",ckqi3jop8e9te0yu3gf4sflxt,2.0,0.0,2
+187,"Happy be Theseus, our renownèd Duke.",ckqi3jopqeav60yu31vdvcr7i,2.0,0.0,4
+188,Has not so much wit--,ckqi3joppeaqq0yu350fz422f,0.0,1.0,4
+189,Have thy desire.,ckqi3jopwebfv0yu341ng43aj,0.0,0.0,3
+190,"Have you no countermand for Claudio yet, But he must die to-morrow?",ckqi3jopeeaam0yu3bzjoct05,0.0,0.0,3
+191,Have you the tongues?,ckqi3jopqeauh0yu3g14f6c62,0.0,0.0,3
+192,"He did, my gracious lord, begin that place; Which, since, succeeding ages have re-edified.",ckqi3jopqeast0yu31pj2602j,1.0,0.0,3
+193,"He did, my lord, four days ere I set forth; And at the time of my departure thence He was much fear'd by his physicians.",ckqi3jopueb8x0yu33a5m0jul,0.0,0.0,4
+194,"He faints. My lord, my lord!",ckqi3jopyebo20yu326wx8b58,0.0,0.0,2
+195,"He has deserved it, were it carbuncled Like holy Phoebus' car. Give me thy hand: Through Alexandria make a jolly march; Bear our hack'd targets like the men that owe them: Had our great palace the capacity To camp this host, we all would sup together, And drink carouses to the next day's fate, Which promises royal peril. Trumpeters, With brazen din blast you the city's ear; Make mingle with rattling tabourines; That heaven and earth may strike their sounds together, Applauding our approach.",ckqi3joole95d0yu31a0b6igo,0.0,2.0,4
+196,"He is addressed. Press near, and second him.",ckqi3jopgeait0yu38lu415p4,0.0,0.0,3
+197,He was gotten in drink. Is not the humor conceited?,ckqi3jopteb5g0yu3fzw8fq1d,0.0,1.0,3
+198,He will not say so.,ckqi3joome98z0yu348xegz3a,0.0,0.0,4
+199,"He's shrewdly vexed at something: look, he has spied us.",ckqi3joope9ks0yu3erob6ws4,0.0,0.0,3
+200,"Health and long life to you, Master Silence.",ckqi3jooge8r70yu33qsocn6n,4.0,0.0,4
+201,"Heaven grant us its peace, but not the King of Hungary's!",ckqi3jooge8ok0yu3am5z7u9f,0.0,0.0,2
+202,Heaven truly knows that thou art false as hell.,ckqi3joobe8gd0yu30t180sl5,0.0,2.0,3
+203,"Helen, to you our minds we will unfold. Tomorrow night, when Phoebe doth behold Her silver visage in the watery glass, Decking with liquid pearl the bladed grass (A time that lovers flights doth still conceal), Through Athens' gates, have we devised to steal -- ",ckqi3jooqe9ps0yu30k49dza4,0.0,0.0,1
+204,"Her natural posture! Chide me, dear stone, that I may say indeed Thou art Hermione; or rather, thou art she In thy not chiding, for she was as tender As infancy and grace. But yet, Paulina, Hermione was not so much wrinkled, nothing So aged as this seems.",ckqi3joo8e89u0yu39q3b3gbd,3.0,0.0,4
+205,Here comes my noble gull-catcher.,ckqi3joohe8u40yu3cvo37id3,0.0,0.0,3
+206,"Here is his cave. Peace and content be here! Lord Timon! Timon! Look out, and speak to friends: the Athenians, By two of their most reverend senate, greet thee: Speak to them, noble Timon.",ckqi3jopwebg00yu3fmen3ixq,2.0,0.0,2
+207,How canst thou woo her?,ckqi3joq0ebwe0yu3drybam2b,0.0,0.0,3
+208,How many gentlemen have you lost in this action?,ckqi3jopae9xf0yu356gr3smk,0.0,0.0,2
+209,"How many women would do such a message? Alas, poor Proteus! thou hast entertain'd A fox to be the shepherd of thy lambs. Alas, poor fool! why do I pity him That with his very heart despiseth me? Because he loves her, he despiseth me; Because I love him I must pity him. This ring I gave him when he parted from me, To bind him to remember my good will; And now am I, unhappy messenger, To plead for that which I would not obtain, To carry that which I would have refused, To praise his faith which I would have dispraised. I am my master's true-confirmed love; But cannot be true servant to my master, Unless I prove false traitor to myself. Yet will I woo for him, but yet so coldly As, heaven it knows, I would not have him speed. Gentlewoman, good day! I pray you, be my mean To bring me where to speak with Madam Silvia.",ckqi3joohe8uo0yu3g2n88nmc,1.0,0.0,1
+210,"How much, methinks, I could despise this man, But that I am bound in charity against it!",ckqi3jopoeanj0yu3hci42zqb,0.0,3.0,3
+211,"How say'st thou, Charles? shall our condition stand?",ckqi3jopwebhe0yu339y9hvc8,0.0,0.0,4
+212,"How, how, Lychorida!",ckqi3joofe8l80yu310hr0s08,0.0,0.0,3
+213,"Hoyday, a riddle! neither good nor bad! Why dost thou run so many mile about, When thou mayst tell thy tale a nearer way? Once more, what news?",ckqi3joope9jy0yu39r454rxf,0.0,0.0,3
+214,Hum!,ckqi3jopxebl50yu36nzg0rn9,0.0,0.0,3
+215,"I am a woeful suitor to your honour, Please but your honour hear me.",ckqi3jopteb510yu38vv55sda,0.0,0.0,3
+216,I am appointed him to murder you.,ckqi3jopae9yy0yu32zuu31xc,0.0,3.0,3
+217,I am glad to see you mad.,ckqi3joofe8ln0yu34a3fb6ev,0.0,2.0,3
+218,"I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths.",ckqi3jopueb6z0yu374jxh0lf,0.0,0.0,3
+219,"I am hurt. A plague o' both your houses! I am sped. Is he gone, and hath nothing?",ckqi3jopae9yo0yu32eek4ran,0.0,1.0,1
+220,"I am now of all humours that have showed themselves humours since the old days of goodman Adam to the pupil age of this present twelve o'clock at midnight. What's o'clock, Francis?",ckqi3joone9dk0yu37jayc8r3,0.0,0.0,3
+221,I am unworthy for her schoolmaster.,ckqi3jopfeadj0yu3awwc4l4c,0.0,0.0,3
+222,"I blame you not for praising Caesar so, But what compact mean you to have with us? Will you be pricked in number of our friends, Or shall we on, and not depend on you?",ckqi3joone9df0yu32n996ado,1.0,1.0,4
+223,"I cannot be so partial, Goneril, To the great love I bear you--",ckqi3joole96r0yu3fa4738lp,2.0,0.0,2
+224,"I do beseech you, Though I perchance am vicious in my guess-- As I confess it is my nature's plague To spy into abuses, and oft my jealousy Shapes faults that are not--that your wisdom From one that so imperfectly conceits Would take no notice, nor build yourself a trouble Out of his scattering and unsure observance. It were not for your quiet nor your good, Nor for my manhood, honesty, and wisdom To let you know my thoughts.",ckqi3jopreazm0yu32tv32ng8,1.0,0.0,4
+225,I do confess my fault; And do submit me to your highness' mercy.,ckqi3jopdea7u0yu3b9520fkn,1.0,0.0,3
+226,"I do not strain at the position,-- It is familiar,--but at the author's drift; Who, in his circumstance, expressly proves That no man is the lord of any thing, Though in and of him there be much consisting, Till he communicate his parts to others: Nor doth he of himself know them for aught Till he behold them form'd in the applause Where they're extended; who, like an arch, reverberates The voice again, or, like a gate of steel Fronting the sun, receives and renders back His figure and his heat. I was much wrapt in this; And apprehended here immediately The unknown Ajax. Heavens, what a man is there! a very horse, That has he knows not what. Nature, what things there are Most abject in regard and dear in use! What things again most dear in the esteem And poor in worth! Now shall we see to-morrow-- An act that very chance doth throw upon him-- Ajax renown'd. O heavens, what some men do, While some men leave to do! How some men creep in skittish fortune's hall, Whiles others play the idiots in her eyes! How one man eats into another's pride, While pride is fasting in his wantonness! To see these Grecian lords!--why, even already They clap the lubber Ajax on the shoulder, As if his foot were on brave Hector's breast And great Troy shrieking.",ckqi3joofe8mh0yu3bp2x8au3,0.0,1.0,3
+227,"I do, I will.",ckqi3jopteb3s0yu3gx3m8ofn,0.0,0.0,3
+228,"I do, Mark Antony.",ckqi3jopxebj20yu39gzofbp3,0.0,0.0,3
+229,"I have none. Do not talk to me, Emilia. I cannot weep, nor answers have I none But what should go by water. Prithee tonight Lay on my bed my wedding sheets, remember, And call thy husband hither.",ckqi3joq0ebtc0yu36mzz1d4c,0.0,0.0,1
+230,"I have slept, my lord, already.",ckqi3joope9j90yu321w89pqw,0.0,0.0,3
+231,"I hold it ever, Virtue and cunning were endowments greater Than nobleness and riches: careless heirs May the two latter darken and expend; But immortality attends the former. Making a man a god. 'Tis known, I ever Have studied physic, through which secret art, By turning o'er authorities, I have, Together with my practise, made familiar To me and to my aid the blest infusions That dwell in vegetives, in metals, stones; And I can speak of the disturbances That nature works, and of her cures; which doth give me A more content in course of true delight Than to be thirsty after tottering honour, Or tie my treasure up in silken bags, To please the fool and death.",ckqi3jop9e9vm0yu3dw0t95x2,0.0,0.0,4
+232,"I hold your dainties cheap, sir, and your welcome dear. ANTIPHOLUS",ckqi3joohe8rr0yu3172kc88x,2.0,0.0,3
+233,"I know his gate, 'tis he. Villain, thou diest!",ckqi3joo7e8770yu33jhr1lkb,0.0,2.0,2
+234,"I know not why, except to get the land. But once he slander'd me with bastardy: But whether I be as true begot or no, That still I lay upon my mother's head, But that I am as well begot, my liege,-- Fair fall the bones that took the pains for me!-- Compare our faces and be judge yourself. If old sir Robert did beget us both And were our father and this son like him, O old sir Robert, father, on my knee I give heaven thanks I was not like to thee!",ckqi3jopueb830yu35fyyb1q3,0.0,3.0,4
+235,"I know not, sir.",ckqi3jopxeblu0yu38ct78kaj,0.0,0.0,4
+236,I know not.,ckqi3jopreayi0yu3bgzwhmk6,0.0,0.0,3
+237,I know not; but I think it was not he.,ckqi3joooe9hv0yu3gl3z2t6z,0.0,0.0,4
+238,I know you'ld fain be gone. An officer! To prison with her! Shall we thus permit A blasting and a scandalous breath to fall On him so near us? This needs must be a practise. Who knew of Your intent and coming hither?,ckqi3jooqe9o40yu37a1mcfdt,0.0,2.0,2
+239,"I pray now, keep below.",ckqi3joope9iu0yu376a53jci,0.0,0.0,3
+240,"I pray thee give it me. I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk roses, and with eglantine. There sleeps Titania sometime of the night, Lulled in these flowers with dances and delight. And there the snake throws her enameled skin, Weed wide enough to wrap a fairy in. And with the juice of this I'll streak her eyes, And make her full of hateful fantasies. Take thou some of it, and seek through this grove. A sweet Athenian lady is in love With a disdainful youth. Anoint his eyes, But do it when the next thing he espies May be the lady. Thou shalt know the man By the Athenian garments he hath on. Effect it with some care, that he may prove More fond on her then she upon her love; And look thou meet me ere the first cock crow.",ckqi3jopdea890yu31hxqcn4j,0.0,2.0,3
+241,"I pray you sir, go forth And give us truth who 'tis that is arrived.",ckqi3jopyebp60yu33aym11yj,0.0,0.0,3
+242,"I pray you, daughter, sing; or express yourself in a more comfortable sort: if my son were my husband, I should freelier rejoice in that absence wherein he won honour than in the embracements of his bed where he would show most love. When yet he was but tender-bodied and the only son of my womb, when youth with comeliness plucked all gaze his way, when for a day of kings' entreaties a mother should not sell him an hour from her beholding, I, considering how honour would become such a person. that it was no better than picture-like to hang by the wall, if renown made it not stir, was pleased to let him seek danger where he was like to find fame. To a cruel war I sent him; from whence he returned, his brows bound with oak. I tell thee, daughter, I sprang not more in joy at first hearing he was a man-child than now in first seeing he had proved himself a man.",ckqi3joole96c0yu3hfws5nq0,2.0,0.0,2
+243,"I pray you, stay not, but in haste to horse.",ckqi3jopseb1f0yu3fy80hx0q,0.0,0.0,2
+244,"I pray you, stay; by hell and all hell's torments I will not speak a word!",ckqi3joome99j0yu35xjyhait,0.0,1.0,3
+245,I quote it in your jerkin.,ckqi3jopneakh0yu3ai0leuxk,0.0,0.0,2
+246,"I say, I am your mother.",ckqi3jopueb7t0yu30iam0iaq,0.0,0.0,3
+247,"I shall, King Harry. And so fare thee well: Thou never shalt hear herald any more.",ckqi3jopreawf0yu3bozv2z63,0.0,0.0,3
+248,"I spoke it, tender juvenal, as a congruent epitheton appertaining to thy young days, which we may nominate tender.",ckqi3jooge8q30yu3ha872tre,0.0,0.0,3
+249,"I take all and your several visitations So kind to heart, 'tis not enough to give; Methinks, I could deal kingdoms to my friends, And ne'er be weary. Alcibiades, Thou art a soldier, therefore seldom rich; It comes in charity to thee: for all thy living Is 'mongst the dead, and all the lands thou hast Lie in a pitch'd field.",ckqi3jopbea110yu369jq8vb5,2.0,0.0,3
+250,"I take no heed of thee; thou'rt an Athenian, therefore welcome: I myself would have no power; prithee, let my meat make thee silent.",ckqi3joppeaqb0yu332790pzb,2.0,1.0,4
+251,"I think his understanding is bereft. Speak, Clifford, dost thou know who speaks to thee? Dark cloudy death o'ershades his beams of life, And he nor sees nor hears us what we say.",ckqi3joobe8fy0yu3c77hhamd,0.0,0.0,3
+252,"I thought she had some great matter there in hand; for she hath privately twice or thrice a day, ever since the death of Hermione, visited that removed house. Shall we thither and with our company piece the rejoicing?",ckqi3jopueb9r0yu3284oh8xb,0.0,0.0,3
+253,"I will do my good will, sir; you can have no more.",ckqi3jooge8qi0yu3697md2ik,1.0,0.0,3
+254,"I will not answer thee with words, but blows.",ckqi3joo5e83g0yu3a4298amp,0.0,3.0,3
+255,I will not desire that.,ckqi3jooge8q80yu351ope9ak,0.0,0.0,1
+256,"I will not sup to-night. Give me some ink and paper. What, is my beaver easier than it was? And all my armour laid into my tent?",ckqi3jopqeaur0yu3alb5gxtc,0.0,0.0,4
+257,I will then give it you soundly.,ckqi3jopreay80yu3acf749qi,0.0,0.0,2
+258,"I will weary you then no longer with idle talking. Know of me then, for now I speak to some purpose, that I know you are a gentleman of good conceit: I speak not this that you should bear a good opinion of my knowledge, insomuch I say I know you are; neither do I labour for a greater esteem than may in some little measure draw a belief from you, to do yourself good and not to grace me. Believe then, if you please, that I can do strange things: I have, since I was three year old, conversed with a magician, most profound in his art and yet not damnable. If you do love Rosalind so near the heart as your gesture cries it out, when your brother marries Aliena, shall you marry her: I know into what straits of fortune she is driven; and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow human as she is and without any danger.",ckqi3jopteb650yu32rw70rkq,2.0,0.0,3
+259,"I would he had continued to his country As he began, and not unknit himself The noble knot he made.",ckqi3jopseb060yu3023k2mws,0.0,0.0,3
+260,I'll bring you to the gates.,ckqi3jooje8yz0yu3ekg36o8h,0.0,0.0,3
+261,"I'll follow you, good Master Robert Shallow. Bardolph, look to our horses. If I were sawed into quantities, I should make four dozen of such bearded hermits' staves as Master Shallow. It is a wonderful thing to see the semblable coherence of his men's spirits and his: they, by observing of him, do bear themselves like foolish justices; he, by conversing with them, is turned into a justice-like serving-man: their spirits are so married in conjunction with the participation of society that they flock together in consent, like so many wild-geese. If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants. It is certain that either wise bearing or ignorant carriage is caught, as men take diseases, one of another: therefore let men take heed of their company. I will devise matter enough out of this Shallow to keep Prince Harry in continual laughter the wearing out of six fashions, which is four terms, or two actions, and a' shall laugh without intervallums. O, it is much that a lie with a slight oath and a jest with a sad brow will do with a fellow that never had the ache in his shoulders! O, you shall see him laugh till his face be like a wet cloak ill laid up!",ckqi3jooae8d60yu3bc6mecs0,2.0,0.0,3
+262,"I'll meet you at the turn. What a god's gold, That he is worshipp'd in a baser temple Than where swine feed! 'Tis thou that rigg'st the bark and plough'st the foam, Settlest admired reverence in a slave: To thee be worship! and thy saints for aye Be crown'd with plagues that thee alone obey! Fit I meet them.",ckqi3jopbe9zn0yu336oy81h5,1.0,2.0,4
+263,"I'll not put The dibble in earth to set one slip of them; No more than were I painted I would wish This youth should say 'twere well and only therefore Desire to breed by me. Here's flowers for you; Hot lavender, mints, savoury, marjoram; The marigold, that goes to bed wi' the sun And with him rises weeping: these are flowers Of middle summer, and I think they are given To men of middle age. You're very welcome.",ckqi3jopqeasy0yu3attv6g1f,1.0,0.0,2
+264,I'th'mire.,ckqi3jopvebdx0yu3a5xohud4,0.0,0.0,3
+265,"I, madam? no, I have no reason for it; That is my brother's plea and none of mine; The which if he can prove, a' pops me out At least from fair five hundred pound a year: Heaven guard my mother's honour and my land!",ckqi3jopeeabg0yu33x2p3up7,0.0,0.0,3
+266,"If I put any tricks upon 'em, sir, they shall be jades' tricks; which are their own right by the law of nature.",ckqi3jopoeakw0yu3d2clfk5e,0.0,0.0,1
+267,"If I thought that, I tell thee, homicide, These nails should rend that beauty from my cheeks.",ckqi3jopqeavl0yu331zw76st,0.0,3.0,4
+268,"If the business be of any difficulty, and this morning your departure hence, it requires haste of your lordship.",ckqi3joo9e89z0yu33cva31ng,0.0,0.0,3
+269,"If you misdoubt me that I am not she, I know not how I shall assure you further, But I shall lose the grounds I work upon.",ckqi3jopgeagq0yu31hg9128d,0.0,0.0,3
+270,"Image of pride, why should I hold my peace?",ckqi3jopxebis0yu3asaahkdt,0.0,0.0,2
+271,"In God's name what are you, and how came you hither?",ckqi3jooqe9pd0yu325ptf1m2,0.0,1.0,2
+272,"In thy foul throat thou liest: Queen Margaret saw Thy murderous falchion smoking in his blood; The which thou once didst bend against her breast, But that thy brothers beat aside the point.",ckqi3jopueb9w0yu3ek90ds7m,0.0,3.0,3
+273,"Indeed, I am no mourner for that news, Because they have been still mine enemies: But, that I'll give my voice on Richard's side, To bar my master's heirs in true descent, God knows I will not do it, to the death.",ckqi3jopae9yj0yu3aib68eup,0.0,2.0,3
+274,"Indeed, he looks younger than he did, by the loss of a beard.",ckqi3jopreaxo0yu301wch8h2,0.0,0.0,3
+275,Is Banquo gone from court?,ckqi3jopvebds0yu321naevv4,0.0,0.0,4
+276,"Is Talbot slain, the Frenchmen's only scourge, Your kingdom's terror and black Nemesis? O, were mine eyeballs into bullets turn'd, That I in rage might shoot them at your faces! O, that I could but call these dead to life! It were enough to fright the realm of France: Were but his picture left amongst you here, It would amaze the proudest of you all. Give me their bodies, that I may bear them hence And give them burial as beseems their worth.",ckqi3jopgeaji0yu36kie9dj7,1.0,3.0,3
+277,Is he ready To come abroad?,ckqi3jop8e9sk0yu3fe16b5zo,0.0,0.0,2
+278,It is a fault that springeth from your eye. ANTIPHOLUS,ckqi3jopvebdd0yu3f57z2k04,0.0,1.0,4
+279,"It is not seen enough, you should wear it in your cap. By my troth, I am sick.",ckqi3jopzebry0yu3ar0kd7af,0.0,0.0,3
+280,"It is to be recovered: but that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or 'hic jacet.'",ckqi3joone9ee0yu3b0r4h2xw,0.0,0.0,3
+281,"It was his bidding; therefore, good Emilia, Give me my nightly wearing, and adieu. We must not now displease him.",ckqi3jopteb6a0yu3gu3f88sf,2.0,0.0,2
+282,"It will have blood, they say-- blood will have blood. Stones have been known to move and trees to speak, Augurs and understood relations have By maggot-pies and choughs and rooks brought forth The secret'st man of blood. What is the night?",ckqi3joohe8s60yu3c3apbjco,0.0,2.0,3
+283,"It's supper-time, my lord; It's nine o'clock.",ckqi3jopbea1v0yu3grst1qyn,0.0,0.0,2
+284,"Kill thy physician, and thy fee bestow Upon the foul disease. Revoke thy gift, Or whilst I can vent clamor from my throat I'll tell thee thou dost evil.",ckqi3jopreaz70yu3dejxdz04,0.0,4.0,4
+285,"King Henry, be thy title right or wrong, Lord Clifford vows to fight in thy defence: May that ground gape and swallow me alive, Where I shall kneel to him that slew my father!",ckqi3joo7e87h0yu33ngk629p,1.0,2.0,3
+286,"King Richard Coeur-de-lion was thy father: By long and vehement suit I was seduced To make room for him in my husband's bed: Heaven lay not my transgression to my charge! Thou art the issue of my dear offence, Which was so strongly urged past my defence.",ckqi3joo5e82c0yu31liv5vd8,0.0,1.0,3
+287,"Let me have audience for a word or two: I am the second son of old Sir Rowland, That bring these tidings to this fair assembly. Duke Frederick, hearing how that every day Men of great worth resorted to this forest, Address'd a mighty power; which were on foot, In his own conduct, purposely to take His brother here and put him to the sword: And to the skirts of this wild wood he came; Where meeting with an old religious man, After some question with him, was converted Both from his enterprise and from the world, His crown bequeathing to his banish'd brother, And all their lands restored to them again That were with him exiled. This to be true, I do engage my life.",ckqi3jopeeab60yu39vmvgel6,0.0,0.0,2
+288,Let not your ears despise my tongue forever Which shall possess them with the heaviest sound That ever yet they heard.,ckqi3jopwebhy0yu34yir82zf,0.0,0.0,3
+289,"Let us from point to point this story know, To make the even truth in pleasure flow. If thou be'st yet a fresh uncropped flower, Choose thou thy husband, and I'll pay thy dower; For I can guess that by thy honest aid Thou keep'st a wife herself, thyself a maid. Of that and all the progress, more or less, Resolvedly more leisure shall express: All yet seems well; and if it end so meet, The bitter past, more welcome is the sweet. EPILOGUE The king's a beggar, now the play is done: All is well ended, if this suit be won, That you express content; which we will pay, With strife to please you, day exceeding day: Ours be your patience then, and yours our parts; Your gentle hands lend us, and take our hearts.",ckqi3jopcea2a0yu3dcwwa4uz,2.0,0.0,2
+290,Like or find fault; do as your pleasures are:,ckqi3joofe8mr0yu36fbaet8x,0.0,0.0,4
+291,"Lo yonder, and Titinius mourning it.",ckqi3joobe8gx0yu31h4lfg4j,0.0,0.0,2
+292,Look how he laughs already.,ckqi3jopvebdi0yu39m5hf4hz,0.0,0.0,3
+293,"Lustig, as the Dutchman says: I'll like a maid the better, whilst I have a tooth in my head: why, he's able to lead her a coranto.",ckqi3jooee8k40yu3cfmx46tz,0.0,0.0,2
+294,"Madam and mistress, a thousand good-morrows.",ckqi3jooje8zt0yu39nlr98oy,3.0,0.0,3
+295,"Madam, here comes my lord.",ckqi3jooke91r0yu31y265bw7,0.0,0.0,3
+296,"Madam, methinks, if you did love him dearly, You do not hold the method to enforce The like from him.",ckqi3joo7e87m0yu3d4kvbi72,1.0,0.0,2
+297,"Madam, though Venus govern your desires, Saturn is dominator over mine: What signifies my deadly-standing eye, My silence and my cloudy melancholy, My fleece of woolly hair that now uncurls Even as an adder when she doth unroll To do some fatal execution? No, madam, these are no venereal signs: Vengeance is in my heart, death in my hand, Blood and revenge are hammering in my head. Hark Tamora, the empress of my soul, Which never hopes more heaven than rests in thee, This is the day of doom for Bassianus: His Philomel must lose her tongue to-day, Thy sons make pillage of her chastity And wash their hands in Bassianus' blood. Seest thou this letter? take it up, I pray thee, And give the king this fatal plotted scroll. Now question me no more; we are espied; Here comes a parcel of our hopeful booty, Which dreads not yet their lives' destruction.",ckqi3joq0ebub0yu37hxn3tz1,0.0,4.0,4
+298,"Mark Antony, shall we give sign of battle?",ckqi3joome9c10yu36j3t79ai,0.0,0.0,2
+299,Mark how he trembles in his ecstasy!,ckqi3jooqe9mb0yu3bohv59vv,0.0,1.0,4
+300,"Marry to-- Come captain, will you go?",ckqi3jop9e9vc0yu3dvt8ghsv,0.0,0.0,3
+301,"Marry, God forbid.",ckqi3jooge8po0yu3a12l476n,0.0,0.0,3
+302,"Marry, at the white hair that Helen spied on Troilus' chin.",ckqi3joohe8tu0yu3dmugfq1v,0.0,0.0,2
+303,"Marry, on Hero, the daughter and heir of Leonato.",ckqi3joppeara0yu3a1d15l20,0.0,0.0,3
+304,"Marry, sir, she's the kitchen wench and all grease; and I know not what use to put her to but to make a lamp of her and run from her by her own light. I warrant, her rags and the tallow in them will burn a Poland winter: if she lives till doomsday, she'll burn a week longer than the whole world. ANTIPHOLUS",ckqi3joo6e8540yu35xyvhzkt,0.0,2.0,3
+305,"Marry, thus: when it stands well with him, it stands well with her.",ckqi3joq0ebvk0yu34ip13cak,0.0,0.0,4
+306,May I change these garments?,ckqi3joole95s0yu3g2yyd69b,0.0,0.0,4
+307,"May they perceive's intent! He will require them, As if he did contemn what he requested Should be in them to give.",ckqi3jopoeano0yu36p11gcao,0.0,0.0,2
+308,"Men's eyes were made to look, and let them gaze; I will not budge for no man's pleasure, I.",ckqi3joole9710yu374yr2401,0.0,0.0,3
+309,Mine honesty and I begin to square. The loyalty well held to fools does make Our faith mere folly: yet he that can endure To follow with allegiance a fall'n lord Does conquer him that did his master conquer And earns a place i' the story.,ckqi3joq1ebwy0yu32p8jerxe,0.0,0.0,2
+310,"Mine, fifty talents.",ckqi3jopyebmo0yu34484cp52,0.0,0.0,4
+311,Most rare.,ckqi3jooee8ja0yu3cww0g5pd,0.0,0.0,3
+312,Must I bite?,ckqi3jooie8xq0yu3dcyw4s43,0.0,0.0,3
+313,"My commission Is not to reason of the deed, but do it.",ckqi3joone9e90yu3bnzv0scz,0.0,0.0,4
+314,"My doe with the black scut? Let the sky  rain potatoes. Let it thunder to the tune of ""Green sleeves,"" hail kissing-comfits, and snow eringoes. Let  there come a tempest of provocation, I will shelter me  here.",ckqi3jopoeam00yu3dnm5fqu4,0.0,0.0,3
+315,"My good Lysander, I swear to thee by Cupid's strongest bow, By his best arrow with the golden head, By the simplicity of Venus' doves, By that which knitteth souls and prospers love, And by that fire which burned the Carthage queen When the false Trojan under sail was seen, By all the vows that ever men have broke (In number more then ever women spoke), In that same place thou hast appointed me Tomorrow truly will I meet with thee.",ckqi3joope9ki0yu3ep760ajh,2.0,0.0,2
+316,"My kind Antonio, I can no other answer make but thanks, And thanks, and ever thanks; and oft good turns Are shuffled off with such uncurrent pay. But were my worth, as is my conscience, firm, You should find better dealing. What's to do? Shall we go see the relics of this town?",ckqi3joppearp0yu37h5x8s2i,3.0,0.0,3
+317,"My life itself, and the best heart of it, Thanks you for this great care: I stood i' the level Of a full-charged confederacy, and give thanks To you that choked it. Let be call'd before us That gentleman of Buckingham's; in person I'll hear him his confessions justify; And point by point the treasons of his master He shall again relate.",ckqi3jopseb100yu32kapgeri,3.0,0.0,3
+318,"My lord, I have consider'd with myself The title of this most renowned duke; And in my conscience do repute his grace The rightful heir to England's royal seat.",ckqi3joohe8sv0yu38v5th1xc,0.0,0.0,3
+319,"My lord, They have all been touch'd and found base metal, for They have au denied him.",ckqi3jooqe9na0yu3fwpa7fsc,0.0,0.0,3
+320,"My lord, here comes the rascal I spoke of; here with the provost.",ckqi3jopeea8y0yu39lvcgm9l,0.0,2.0,4
+321,"My lord, the army of the Duke of Buckingham--",ckqi3joome9ad0yu3hswr8sl6,0.0,0.0,3
+322,"My lords ambassadors, your several suits Have been consider'd and debated on. And therefore are we certainly resolved To draw conditions of a friendly peace; Which by my Lord of Winchester we mean Shall be transported presently to France.",ckqi3jopdea5h0yu30t9z71ud,1.0,0.0,3
+323,"My love, forbear to fawn upon their frowns: What danger or what sorrow can befall thee, So long as Edward is thy constant friend, And their true sovereign, whom they must obey? Nay, whom they shall obey, and love thee too, Unless they seek for hatred at my hands; Which if they do, yet will I keep thee safe, And they shall feel the vengeance of my wrath.",ckqi3jopteb5b0yu31ogzbt0k,1.0,3.0,3
+324,"My noble masters, hear me speak.",ckqi3jopcea3e0yu3add3awcs,0.0,0.0,3
+325,Name them.,ckqi3jopcea250yu3cxhma4d8,0.0,0.0,3
+326,"Nay, 'tis strange, 'tis very strange, that is the brief and the tedious of it; and he's of a most facinerious spirit that will not acknowledge it to be the--",ckqi3joome9bh0yu33urhdnb2,0.0,1.0,3
+327,"Nay, I prithee put on this gown, and this beard;  make him believe thou art Sir Topaz the curate. Do it  quickly. I'll call Sir Toby the whilst.",ckqi3jopoeamf0yu30d43ak94,0.0,0.0,3
+328,"Nay, but I know who loves him.",ckqi3jopreaxt0yu321sw8hx3,0.0,0.0,2
+329,"Nay, take away this scolding crookback rather.",ckqi3joq0ebuv0yu3hou9g55q,0.0,2.0,3
+330,"Nay, take me with thee, good sweet Exeter: Not that I fear to stay, but love to go Whither the queen intends. Forward; away!",ckqi3jopdea6l0yu3dybj6bn7,1.0,0.0,3
+331,"Neighbours, you are tedious.",ckqi3jopgeaie0yu38otraks5,0.0,3.0,3
+332,"No quips now, Pistol: Indeed I am in the waist  two yards about, but I am now about no waste. I am a bout thrift. Briefly, I do mean to make love to Ford's  wife. I spy entertainment in her. She discourses, she  carves, she gives the leer of invitation. I can construe  the action of her familiar style; and the hardest voice of her  behavior -- to be Englished rightly -- is ""I am Sir John Falstafs's.""",ckqi3jopae9xu0yu389kdhrbi,0.0,1.0,2
+333,"No, I warrant you.",ckqi3jopyebn30yu3bksy3nt5,0.0,0.0,3
+334,"No, friend, cannot you beg? Here's them in our country Greece gets more with begging than we can do with working.",ckqi3joo9e8bi0yu3crc6gs5z,0.0,0.0,3
+335,"No, his conscience Has crept too near another lady.",ckqi3joobe8fj0yu33ytx39l0,0.0,0.0,3
+336,"No, let me speak; and let me rail so high, That the false housewife Fortune break her wheel, Provoked by my offence.",ckqi3jooge8p90yu3cu4pgut5,0.0,1.0,3
+337,"No, not a word; how can I grace my talk, Wanting a hand to give it action? Thou hast the odds of me; therefore no more.",ckqi3joobe8fo0yu31gcefltt,0.0,1.0,2
+338,"No, pray thee. I must obey; his art is of such power It would control my dam's god Setebos And make a vassal of him.",ckqi3joofe8nb0yu3ec08dbt2,0.0,0.0,3
+339,"No, sir: yet oft, When blows have made me stay, I fled from words. You soothed not, therefore hurt not: but your people, I love them as they weigh.",ckqi3joore9qw0yu3fpgs5yam,2.0,0.0,3
+340,"No, they are both as whole as a fish.",ckqi3jopxebjm0yu3512wbega,0.0,0.0,2
+341,No; For we were subjects but while you were king.,ckqi3jopxebi80yu349gc87k9,0.0,0.0,4
+342,"None! The music of the spheres! List, my Marina.",ckqi3jopqeavq0yu37aljadpj,0.0,0.0,3
+343,"None, madam.",ckqi3jooke92b0yu31f6a2euk,0.0,0.0,2
+344,"Not I, for this fair island; I do love Cassio well, and would do much To cure him of this evil-- --but hark, what noise?",ckqi3jopreawk0yu3ateo3ul2,2.0,0.0,2
+345,Not know me yet?,ckqi3jopae9xa0yu357i0be5w,0.0,0.0,3
+346,"Not to kill him, having a warrant for it; but to be damned for killing him, from which no warrant can defend us.",ckqi3jopae9xp0yu3farjen9k,0.0,1.0,3
+347,"Not yet, my cousin: we would be resolved, Before we hear him, of some things of weight That task our thoughts, concerning us and France.",ckqi3jooce8iq0yu362jch9gs,0.0,0.0,4
+348,"Nothing, Messala.",ckqi3jopfeafw0yu32xumfxkt,0.0,0.0,3
+349,Nothing.,ckqi3jopcea4n0yu32vszcej2,0.0,0.0,3
+350,"Now all the blessings Of a glad father compass thee about: Arise, and say how thou cam'st here.",ckqi3joome9b70yu311h3c5ho,2.0,0.0,2
+351,"Now by my soul, I would it were this hour.",ckqi3jooee8jz0yu36r1o178n,0.0,0.0,3
+352,"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe. From camp to camp through the foul womb of night The hum of either army stilly sounds, That the fixed sentinels almost receive The secret whispers of each other's watch: Fire answers fire, and through their paly flames Each battle sees the other's umber'd face; Steed threatens steed, in high and boastful neighs Piercing the night's dull ear, and from the tents The armourers, accomplishing the knights, With busy hammers closing rivets up, Give dreadful note of preparation: The country cocks do crow, the clocks do toll, And the third hour of drowsy morning name. Proud of their numbers and secure in soul, The confident and over-lusty French Do the low-rated English play at dice; And chide the cripple tardy-gaited night Who, like a foul and ugly witch, doth limp So tediously away. The poor condemned English, Like sacrifices, by their watchful fires Sit patiently and inly ruminate The morning's danger, and their gesture sad Investing lank-lean; cheeks and war-worn coats Presenteth them unto the gazing moon So many horrid ghosts. O now, who will behold The royal captain of this ruin'd band Walking from watch to watch, from tent to tent, Let him cry 'Praise and glory on his head!' For forth he goes and visits all his host. Bids them good morrow with a modest smile And calls them brothers, friends and countrymen. Upon his royal face there is no note How dread an army hath enrounded him; Nor doth he dedicate one jot of colour Unto the weary and all-watched night, But freshly looks and over-bears attaint With cheerful semblance and sweet majesty; That every wretch, pining and pale before, Beholding him, plucks comfort from his looks: A largess universal like the sun His liberal eye doth give to every one, Thawing cold fear, that mean and gentle all, Behold, as may unworthiness define, A little touch of Harry in the night. And so our scene must to the battle fly; Where--O for pity!--we shall much disgrace With four or five most vile and ragged foils, Right ill-disposed in brawl ridiculous, The name of Agincourt. Yet sit and see, Minding true things by what their mockeries be.",ckqi3jopyebor0yu3d6dqahpz,0.0,1.0,3
+353,"Now the fair goddess, Fortune, Fall deep in love with thee; and her great charms Misguide thy opposers' swords! Bold gentleman, Prosperity be thy page!",ckqi3jopdea7f0yu30cs2bynk,2.0,0.0,3
+354,"Now the melancholy god protect thee, and the  tailor make thy doublet of changeable taffeta, for thy  mind is a very opal. I would have men of such  constancy put to sea, that their business might be everything,  and their intent everywhere; for that's it that always  makes a good voyage of nothing. Farewell.",ckqi3jopzebqf0yu38feecs2v,1.0,0.0,3
+355,Now to the bottom dost thou search my wound: Poor Bassianus here lies murdered.,ckqi3jopeea8o0yu31e2p1nt2,1.0,0.0,3
+356,"Now, Apemantus, if thou wert not sullen, I would be good to thee.",ckqi3joohe8uy0yu33rpo1q24,0.0,2.0,3
+357,"Now, God incense him, And let him cry Ha! louder!",ckqi3joobe8g30yu30azq7zi9,0.0,1.0,2
+358,"Now, blessing on thee! rise; thou art my child. Give me fresh garments. Mine own, Helicanus; She is not dead at Tarsus, as she should have been, By savage Cleon: she shall tell thee all; When thou shalt kneel, and justify in knowledge She is thy very princess. Who is this?",ckqi3jopoeamu0yu3g6cscjqc,2.0,1.0,3
+359,"Now, by the world, it is a lusty wench; I love her ten times more than e'er I did: O, how I long to have some chat with her!",ckqi3jooqe9mg0yu301ou6ngn,1.0,1.0,3
+360,"Now, justice on the doers!",ckqi3jopwebfl0yu3a8ku3dm4,0.0,1.0,2
+361,"Now, madam, summon up your dearest spirits: Consider who the king your father sends, To whom he sends, and what's his embassy: Yourself, held precious in the world's esteem, To parley with the sole inheritor Of all perfections that a man may owe, Matchless Navarre; the plea of no less weight Than Aquitaine, a dowry for a queen. Be now as prodigal of all dear grace As Nature was in making graces dear When she did starve the general world beside And prodigally gave them all to you.",ckqi3jooae8cr0yu37xc0ai7l,2.0,0.0,3
+362,"Now, pretty one, how long have you been at this trade?",ckqi3jopueb9h0yu3ekp1apgs,0.0,0.0,3
+363,"Now, what news?",ckqi3joo6e84a0yu30uewhw02,0.0,0.0,3
+364,"O Lord, sir! Nay, put me to't, I warrant you.",ckqi3jop9e9x00yu3czna5ucl,0.0,0.0,2
+365,"O Lord, sir! why, there't serves well again.",ckqi3joofe8o00yu3hpj24qg9,0.0,0.0,4
+366,"O Tullus,--",ckqi3jopwebf60yu3byru7yu4,0.0,0.0,2
+367,O bon Dieu! les langues des hommes sont pleines de tromperies.,ckqi3joppeaqg0yu39mx8g78f,0.0,1.0,3
+368,"O comfortable friar! where is my lord? I do remember well where I should be, And there I am. Where is my Romeo?",ckqi3jooqe9n50yu3ca2ef6y3,1.0,0.0,4
+369,"O for a Muse of fire, that would ascend The brightest heaven of invention, A kingdom for a stage, princes to act And monarchs to behold the swelling scene! Then should the warlike Harry, like himself, Assume the port of Mars; and at his heels, Leash'd in like hounds, should famine, sword and fire Crouch for employment. But pardon, and gentles all, The flat unraised spirits that have dared On this unworthy scaffold to bring forth So great an object: can this cockpit hold The vasty fields of France? or may we cram Within this wooden O the very casques That did affright the air at Agincourt? O, pardon! since a crooked figure may Attest in little place a million; And let us, ciphers to this great accompt, On your imaginary forces work. Suppose within the girdle of these walls Are now confined two mighty monarchies, Whose high upreared and abutting fronts The perilous narrow ocean parts asunder: Piece out our imperfections with your thoughts; Into a thousand parts divide on man, And make imaginary puissance; Think when we talk of horses, that you see them Printing their proud hoofs i' the receiving earth; For 'tis your thoughts that now must deck our kings, Carry them here and there; jumping o'er times, Turning the accomplishment of many years Into an hour-glass: for the which supply, Admit me Chorus to this history; Who prologue-like your humble patience pray, Gently to hear, kindly to judge, our play.",ckqi3joofe8n60yu34pv7d272,0.0,1.0,4
+370,O monstrous! eleven buckram men grown out of two!,ckqi3joole95x0yu39ts285f7,0.0,2.0,3
+371,"O my good lord! Sweet Isabel, take my part; Lend me your knees, and all my life to come I'll lend you all my life to do you service.",ckqi3jop8e9t90yu36zne3xwu,3.0,0.0,3
+372,"O, here's Servilius; now we shall know some answer.",ckqi3jopyebow0yu30img47fl,0.0,0.0,1
+373,"O, let their bodies follow, my dear liege, With blood and sword and fire to win your right; In aid whereof we of the spiritualty Will raise your highness such a mighty sum As never did the clergy at one time Bring in to any of your ancestors.",ckqi3joo9e8ae0yu3hlqa080k,2.0,1.0,3
+374,"O, pardon; I offend.",ckqi3jop9e9v70yu35n7rglpa,1.0,0.0,4
+375,"O, tell, tell.",ckqi3jopeea930yu37n1zhm7x,0.0,0.0,3
+376,"O, that delightful engine of her thoughts That blabb'd them with such pleasing eloquence, Is torn from forth that pretty hollow cage, Where, like a sweet melodious bird, it sung Sweet varied notes, enchanting every ear!",ckqi3jopyebm90yu35qaw7rsb,3.0,0.0,4
+377,"O, the Lord preserve thy good grace! by my troth, welcome to London. Now, the Lord bless that sweet face of thine! O, Jesu, are you come from Wales?",ckqi3jopvebal0yu3ayxmgrm7,3.0,0.0,3
+378,"O, true, good Catesby: bid him levy straight The greatest strength and power he can make, And meet me presently at Salisbury.",ckqi3joo6e85y0yu3b6np3lx9,2.0,0.0,3
+379,"O, what men dare do! what men may do! what men daily do, not knowing what they do!",ckqi3joole97v0yu36dlf14y2,0.0,0.0,3
+380,"O, wilt thou leave me so unsatisfied?",ckqi3jopzebro0yu3b3guabor,0.0,0.0,2
+381,"Oh, base Hungarian wight! Wilt thou the spigot wield?",ckqi3jop8e9tt0yu3at20gv7e,0.0,1.0,2
+382,"Oh, that deceit should steal such gentle shapes, And with a virtuous vizard hide foul guile! He is my son; yea, and therein my shame; Yet from my dugs he drew not this deceit.",ckqi3jooee8kj0yu3f1xz7f0n,0.0,2.0,2
+383,"Our business is not unknown to the senate; they have had inkling this fortnight what we intend to do, which now we'll show 'em in deeds. They say poor suitors have strong breaths: they shall know we have strong arms too.",ckqi3jop8e9sf0yu331va7g3a,0.0,3.0,3
+384,"Our very priests must become mockers, if they shall encounter such ridiculous subjects as you are. When you speak best unto the purpose, it is not worth the wagging of your beards; and your beards deserve not so honourable a grave as to stuff a botcher's cushion, or to be entombed in an ass's pack- saddle. Yet you must be saying, Marcius is proud; who in a cheap estimation, is worth predecessors since Deucalion, though peradventure some of the best of 'em were hereditary hangmen. God-den to your worships: more of your conversation would infect my brain, being the herdsmen of the beastly plebeians: I will be bold to take my leave of you. How now, my as fair as noble ladies,--and the moon, were she earthly, no nobler,--whither do you follow your eyes so fast?",ckqi3jooie8xb0yu3ciln22lo,0.0,3.0,3
+385,"Pardon me, Margaret; pardon me, sweet son: The Earl of Warwick and the duke enforced me.",ckqi3jopgeai90yu36dykdewm,2.0,0.0,4
+386,"Parolles, was it not?",ckqi3joo9e8c20yu39rol77mq,0.0,0.0,2
+387,"Peace to his soul, if God's good pleasure be! Lord cardinal, if thou think'st on heaven's bliss, Hold up thy hand, make signal of thy hope. He dies, and makes no sign. O God, forgive him!",ckqi3joo9e8a90yu3fs7q2iz4,4.0,0.0,4
+388,Perchance she weeps because they kill'd her husband; Perchance because she knows them innocent.,ckqi3jopvebd30yu3c3greyfq,0.0,0.0,3
+389,"Petruchio, shall I then come roundly to thee And wish thee to a shrewd ill-favour'd wife? Thou'ldst thank me but a little for my counsel: And yet I'll promise thee she shall be rich And very rich: but thou'rt too much my friend, And I'll not wish thee to her.",ckqi3jooke92l0yu3bfnpe362,1.0,0.0,3
+390,Pink for flower.,ckqi3jooke93k0yu3g9yn0ogn,0.0,0.0,1
+391,"Pray do not mock me. I am a very foolish, fond old man, Fourscore and upward,  not an hour more nor less, And, to deal plainly, I fear I am not in my perfect mind. Methinks I should know you, and know this man, Yet I am doubtful, for I am mainly ignorant What place this is; and all the skill I have Remembers not these garments, nor I know not Where I did lodge last night. Do not laugh at me, For, as I am a man, I think this lady To be my child, Cordelia.",ckqi3joole9760yu32z0may9a,0.0,1.0,2
+392,"Pray you then, Conduct me to the queen.",ckqi3jooce8ib0yu366rqb7je,0.0,0.0,4
+393,"Pray you, sir, was't not the wise woman of  Brainford?",ckqi3jopcea3t0yu30sgacijj,0.0,0.0,3
+394,"Prithee, listen well: I heard a bustling rumor, like a fray, And the wind brings it from the Capitol.",ckqi3jopoeany0yu3bfx68k5s,0.0,0.0,3
+395,"Richmond! When last I was at Exeter, The mayor in courtesy show'd me the castle, And call'd it Rougemont: at which name I started, Because a bard of Ireland told me once I should not live long after I saw Richmond.",ckqi3jopueb9c0yu32zgrgtp1,0.0,1.0,4
+396,"Rightly reasoned, and in his own division: and, by my troth, there's one meaning well suited.",ckqi3joole9800yu316bjg7uk,0.0,0.0,1
+397,"Rosaline, by good hap.",ckqi3jopae9y90yu38jwj0o9m,0.0,0.0,2
+398,"Rugby, come to the court with me. – By gar, if  I have not Anne Page, I shall turn your head out of my  door. – Follow my heels, Rugby.",ckqi3joope9jo0yu30v5z9bhe,0.0,1.0,2
+399,"Save him, save him.",ckqi3joofe8m20yu38dov433t,1.0,0.0,3
+400,Say I she is not fair?,ckqi3jopae9y40yu3027paiej,0.0,0.0,3
+401,"Say, I will love her everlastingly.",ckqi3jopyeboh0yu34dxd828r,2.0,0.0,2
+402,"See better Lear, and let me still remain The true blank of thine eye.",ckqi3jooqe9oy0yu3exot33xs,0.0,0.0,2
+403,"See where it comes! Behavior, what wert thou Till this madman show'd thee? and what art thou now?",ckqi3joo6e84z0yu34mbyb1p4,0.0,2.0,4
+404,"Send for him, good uncle.",ckqi3jopwebf10yu3f1176c3i,0.0,0.0,3
+405,"Seven year and a half, sir.",ckqi3joooe9fi0yu30ulq7pyv,0.0,0.0,3
+406,Shall I speak a word in your ear?,ckqi3jopreay30yu3drbfhgfj,0.0,0.0,3
+407,"She is not well; but yet she has her health: she's very merry; but yet she is not well: but thanks be given, she's very well and wants nothing i', the world; but yet she is not well.",ckqi3jooke9300yu33zsgaeq3,2.0,0.0,3
+408,She is young and apt: Our own precedent passions do instruct us What levity's in youth.,ckqi3joope9if0yu3cn1bfkh1,1.0,0.0,3
+409,"She will, she will; justice hath liquored her. We steal as in a castle, cocksure; we have the receipt of fern-seed, we walk invisible.",ckqi3joooe9h60yu3eybg18oq,0.0,1.0,3
+410,"Shepherdess, A fair one are you--well you fit our ages With flowers of winter.",ckqi3jopzebqu0yu39e9achvt,2.0,0.0,3
+411,"Silence is the perfectest herald of joy: I were but little happy, if I could say how much. Lady, as you are mine, I am yours: I give away myself for you and dote upon the exchange.",ckqi3joome9b20yu3fbadeapk,3.0,0.0,3
+412,"Sir Thomas Lovell, had the cardinal But half my lay thoughts in him, some of these Should find a running banquet ere they rested, I think would better please 'em: by my life, They are a sweet society of fair ones.",ckqi3jooke92q0yu34syb6t7s,2.0,0.0,2
+413,"Sir, I will use My utmost skill in his recovery, Provided That none but I and my companion maid Be suffer'd to come near him.",ckqi3joooe9fn0yu3ho2qcfua,1.0,0.0,2
+414,"Sir, but I do; or else I would be hence.",ckqi3jopseazr0yu3cqfw99zr,0.0,0.0,3
+415,"Sir, he's a good dog and a fair dog. Can there  be more said? He is good and fair. -- Is Sir John Falstaff  here?",ckqi3jopseb240yu35uqi12wo,1.0,0.0,3
+416,"Sir, look well to my husband's house; and--",ckqi3jooie8ya0yu390jagil1,0.0,0.0,2
+417,"Sir, pardon me in what I have to say: Your plainness and your shortness please me well. Right true it is, your son Lucentio here Doth love my daughter and she loveth him, Or both dissemble deeply their affections: And therefore, if you say no more than this, That like a father you will deal with him And pass my daughter a sufficient dower, The match is made, and all is done: Your son shall have my daughter with consent.",ckqi3joppeaqv0yu3bhynhyvf,3.0,0.0,3
+418,"Sir, sir, the first's for me; let her go by.",ckqi3jop7e9rb0yu3g64p05wj,0.0,0.0,3
+419,"Sir, there is a proclamation that you are vanished.",ckqi3jopseb1u0yu3fh6rf383,0.0,0.0,2
+420,"Sir, your queen must overboard: the sea works high, the wind is loud, and will not lie till the ship be cleared of the dead.",ckqi3jopueb8n0yu3e3vf13rk,0.0,0.0,3
+421,"Sirrah, bring Barnardine hither.",ckqi3joooe9g20yu303js5m6e,0.0,0.0,2
+422,So could I too.,ckqi3jooke9350yu3eorgeszf,0.0,0.0,2
+423,"So did we all. But, come, let's home.",ckqi3jooie8wm0yu3grqag2tn,0.0,0.0,3
+424,"So it should seem by that I have to say. First, he commends him to your noble lordship.",ckqi3jopoeamp0yu30sc86g43,1.0,0.0,4
+425,Some love of yours hath writ to you in rhyme.,ckqi3joone9du0yu3giuo5rc6,0.0,0.0,4
+426,"Some such thing I said, and said no more but what my thoughts Did warrant me was likely.",ckqi3jop9e9ux0yu30xhd6a6k,0.0,0.0,3
+427,"Something browner than Judas's marry, his kisses are Judas's own children.",ckqi3jopxebj70yu3f9vpctdb,0.0,1.0,2
+428,"Speak softly; yonder, as I think, he walks.",ckqi3jooke93f0yu398gf58vd,0.0,0.0,3
+429,Speak within door.,ckqi3jopcea2p0yu3evo0c2kb,0.0,0.0,2
+430,"Sprawl'st thou? take that, to end thy agony.",ckqi3joone9dz0yu353bv70py,1.0,0.0,3
+431,"Stand fast together, lest some friend of Caesar's Should chance--",ckqi3joofe8nl0yu3d8ccbg7t,0.0,0.0,4
+432,Stand where the torch may not discover us.,ckqi3joome99t0yu396wd7iz2,0.0,0.0,4
+433,"Stay, officer: he shall not go to prison.",ckqi3joole95i0yu33zix2l6y,0.0,0.0,3
+434,Stuck with cloves.,ckqi3joole96m0yu35sa02pz7,0.0,0.0,3
+435,"Suffer love! a good epithet! I do suffer love indeed, for I love thee against my will.",ckqi3jooqe9q20yu306hm9ug7,2.0,2.0,3
+436,"Sweet hearts, we shall be rich ere we depart, If fairings come thus plentifully in: A lady wall'd about with diamonds! Look you what I have from the loving king.",ckqi3jopyebni0yu3aedd4s8r,3.0,0.0,3
+437,"Sweet honey Greek, tempt me no more to folly.",ckqi3jopcea2z0yu33tys1ho1,0.0,0.0,3
+438,"Sweet, except not any; Except thou wilt except against my love.",ckqi3joobe8gi0yu3bhpqad89,0.0,0.0,2
+439,"Take that, thou likeness of this railer here.",ckqi3joooe9gw0yu33ukqccs1,0.0,0.0,1
+440,"Talking of hawking; nothing else, my lord. Now, by God's mother, priest, I'll shave your crown for this, Or all my fence shall fail.",ckqi3jopneajx0yu38ilfcrag,0.0,2.0,3
+441,Taurus!,ckqi3jooge8qx0yu35duw1j14,0.0,0.0,3
+442,Tell me thine first.,ckqi3jooqe9np0yu36k1o5mqc,0.0,0.0,3
+443,"Thaliard, You are of our chamber, and our mind partakes Her private actions to your secrecy; And for your faithfulness we will advance you. Thaliard, behold, here's poison, and here's gold; We hate the prince of Tyre, and thou must kill him: It fits thee not to ask the reason why, Because we bid it. Say, is it done?",ckqi3jopuebab0yu37ysy2ak6,0.0,2.0,2
+444,"That fellow is a fellow of much licence: let him be called before us. Away with her to prison! Go to; no more words. Provost, my brother Angelo will not be altered; Claudio must die to-morrow: let him be furnished with divines, and have all charitable preparation. if my brother wrought by my pity, it should not be so with him.",ckqi3jopneakr0yu3hyac4jtd,0.0,2.0,3
+445,"That you might still have worn the petticoat, And ne'er have stol'n the breech from Lancaster.",ckqi3jopseb1a0yu37kkj0ppr,0.0,0.0,3
+446,"That you must.  Will you, upon good dowry, marry her?",ckqi3jopseb0v0yu3gkw427en,0.0,0.0,3
+447,"That's I, an't like your grace: I came to her from Claudio, and desired her To try her gracious fortune with Lord Angelo For her poor brother's pardon.",ckqi3jopwebht0yu36ez6ag95,2.0,0.0,4
+448,That's my sister. ANTIPHOLUS,ckqi3jop9e9w10yu3ebjx819j,0.0,0.0,4
+449,"The Lord in heaven bless thee, noble Harry!",ckqi3jop8e9u80yu35jgoadnv,1.0,0.0,1
+450,"The Thane of Fife had a wife, where is she now?  What, will these hands ne'er be clean? No more o'that,  my lord, no more o'that. You mar all with this star ting.",ckqi3jopzebs30yu3ea203rap,0.0,0.0,2
+451,"The enemy's in view. Draw up your powers. Here is the guess of their true strength and forces By diligent discovery, but your haste Is now urged on you.",ckqi3joobe8gs0yu3d9qu7x2n,0.0,0.0,3
+452,The heavens give safety to your purposes!,ckqi3jopvebco0yu3c89e1ti8,2.0,0.0,3
+453,The image of it gives me content already; and I trust it will grow to a most prosperous perfection.,ckqi3joo5e8360yu3asfdg8a8,1.0,0.0,2
+454,"The king of heaven forbid our lord the king Should so with civil and uncivil arms Be rush'd upon! Thy thrice noble cousin Harry Bolingbroke doth humbly kiss thy hand; And by the honourable tomb he swears, That stands upon your royal grandsire's bones, And by the royalties of both your bloods, Currents that spring from one most gracious head, And by the buried hand of warlike Gaunt, And by the worth and honour of himself, Comprising all that may be sworn or said, His coming hither hath no further scope Than for his lineal royalties and to beg Enfranchisement immediate on his kn ees: Which on thy royal party granted once, His glittering arms he will commend to rust, His barbed steeds to stables, and his heart To faithful service of your majesty. This swears he, as he is a prince, is just; And, as I am a gentleman, I credit him.",ckqi3jopteb5q0yu37e6f0nbg,2.0,0.0,3
+455,The matter?,ckqi3jopeea9x0yu35sgs3ty7,0.0,0.0,3
+456,The noblest mind he carries That ever govern'd man.,ckqi3joo7e86s0yu30mzeao7v,3.0,0.0,3
+457,"The people fear me; for they do observe Unfather'd heirs and loathly births of nature: The seasons change their manners, as the year Had found some months asleep and leap'd them over.",ckqi3jopreazc0yu38hsea1x3,0.0,1.0,3
+458,"The princely Charles of France, thy countryman.",ckqi3joone9cg0yu3aplm99ht,0.0,0.0,1
+459,"The reformation of our travell'd gallants, That fill the court with quarrels, talk, and tailors.",ckqi3joooe9gc0yu309tl23h1,0.0,0.0,3
+460,The salt in them is hot. Within me is a hell; and there the poison Is as a fiend confined to tyrannize On unreprievable condemned blood.,ckqi3joome9as0yu3h4uugy03,0.0,1.0,2
+461,"The same, sir.",ckqi3jooie8y50yu38w7o8e2w,0.0,0.0,3
+462,"The service, and the loyalty I owe In doing it, pays itself.  Your highness' part Is to receive our duties,  and our duties Are to your throne and state,  children and servants, Which do but what they should  by doing everything  Safe toward your love  and honor. ",ckqi3jooie8wh0yu3cmntbaph,4.0,0.0,4
+463,"The worst of all her scholars, my good lord.",ckqi3jooje8yp0yu3ew7sgjvk,0.0,1.0,2
+464,Their coronets say so. These are stars indeed; And sometimes falling ones.,ckqi3joooe9et0yu312zmduwu,0.0,0.0,3
+465,"Their eyes, villain, their eyes!",ckqi3jooke91c0yu3a9xj1940,0.0,2.0,4
+466,"Then 'twas my turn to fly, and now 'tis thine.",ckqi3jopwebgz0yu37gedabo8,1.0,0.0,4
+467,"Then further, all dissembling set aside, Tell me for truth the measure of his love Unto our sister Bona.",ckqi3joppear50yu33eupaz8a,0.0,0.0,4
+468,Then give me leave to go.,ckqi3jopgeahk0yu32vi9hakc,0.0,0.0,3
+469,"Then is there mirth in heaven, When earthly things made even Atone together. Good duke, receive thy daughter Hymen from heaven brought her, Yea, brought her hither, That thou mightst join her hand with his Whose heart within his bosom is.",ckqi3jooae8ch0yu387g7demi,1.0,0.0,2
+470,Then say at once if I maintain'd the truth; Or else was wrangling Somerset in the error?,ckqi3jopzebpv0yu3g32qh2v9,0.0,0.0,4
+471,"Then thus: Edward the Third, my lords, had seven sons: The first, Edward the Black Prince, Prince of Wales; The second, William of Hatfield, and the third, Lionel Duke of Clarence: next to whom Was John of Gaunt, the Duke of Lancaster; The fifth was Edmund Langley, Duke of York; The sixth was Thomas of Woodstock, Duke of Gloucester; William of Windsor was the seventh and last. Edward the Black Prince died before his father And left behind him Richard, his only son, Who after Edward the Third's death reign'd as king; Till Henry Bolingbroke, Duke of Lancaster, The eldest son and heir of John of Gaunt, Crown'd by the name of Henry the Fourth, Seized on the realm, deposed the rightful king, Sent his poor queen to France, from whence she came, And him to Pomfret; where, as all you know, Harmless Richard was murder'd traitorously.",ckqi3joo9e8ao0yu36xsg5098,2.0,0.0,4
+472,"Then yield thee coward, And live to be the show and gaze o'th' time. We'll have thee as our rarer monsters are Painted upon a pole and underwrit, ""Here may you see the tyrant.""",ckqi3jopoeama0yu31ktq476v,0.0,4.0,4
+473,"There is among the Greeks Achilles, a better man than Troilus.",ckqi3joome99y0yu3752ubk84,1.0,0.0,3
+474,"There is something in the wind, that we cannot get in.",ckqi3jopfeag10yu3g4hq2yo9,0.0,0.0,2
+475,"There's none but witches do inhabit here; And therefore 'tis high time that I were hence. She that doth call me husband, even my soul Doth for a wife abhor. But her fair sister, Possess'd with such a gentle sovereign grace, Of such enchanting presence and discourse, Hath almost made me traitor to myself: But, lest myself be guilty to self-wrong, I'll stop mine ears against the mermaid's song.",ckqi3joofe8ls0yu30a3c25ma,2.0,1.0,2
+476,"There, my lord: The high promotion of his grace of Canterbury; Who holds his state at door, 'mongst pursuivants, Pages, and footboys.",ckqi3jooke91h0yu33td1439s,1.0,0.0,3
+477,"Therefore he will be, Timon: His honesty rewards him in itself; It must not bear my daughter.",ckqi3jopqeatn0yu3dor80szy,1.0,0.0,3
+478,"Therefore, as you unwind her love from him, Lest it should ravel and be good to none, You must provide to bottom it on me; Which must be done by praising me as much As you in worth dispraise Sir Valentine.",ckqi3jopeea9d0yu317fmbyly,0.0,0.0,4
+479,They are all welcome. What watchful cares do interpose themselves Betwixt your eyes and night?,ckqi3joope9j40yu3f83n3pe2,2.0,0.0,4
+480,Think you so? Which way do you judge my wit would fly?,ckqi3jopueb920yu30vf57mnd,0.0,0.0,3
+481,This Caesar was a tyrant.,ckqi3joope9m10yu349m18oli,0.0,2.0,3
+482,"This Sir John, cousin, that comes hither anon about soldiers?",ckqi3joo6e85j0yu37mwl5amt,0.0,0.0,3
+483,This Trojan scorns us; or the men of Troy Are ceremonious courtiers.,ckqi3joo9e8bx0yu38nuz0ss4,0.0,0.0,3
+484,"This gentleman, the prince's near ally, My very friend, hath got his mortal hurt In my behalf; my reputation stain'd With Tybalt's slander,--Tybalt, that an hour Hath been my kinsman! O sweet Juliet, Thy beauty hath made me effeminate And in my temper soften'd valour's steel!",ckqi3jopzebsx0yu3a9mj188l,2.0,0.0,2
+485,"This is a slave, whose easy-borrowed pride Dwells in the sickly grace of her he follows. Out, varlet, from my sight.",ckqi3jopseb290yu3hlgb3ykj,0.0,2.0,2
+486,"This is practice, Gloucester. By th'law of war thou wast not bound to answer An unknown opposite. Thou art not vanquished, But cozened and beguiled.",ckqi3jopteb420yu3h8155tt5,0.0,3.0,4
+487,"This is the prettiest low-born lass that ever Ran on the green-sward: nothing she does or seems But smacks of something greater than herself, Too noble for this place.",ckqi3jopneak20yu3cytu4x5j,2.0,0.0,2
+488,This is the strangest tale that ever I heard.,ckqi3joooe9gh0yu3c3zi55ud,0.0,0.0,2
+489,"This purse of ducats I received from you, And Dromio, my man, did bring them me. I see we still did meet each other's man, And I was ta'en for him, and he for me, And thereupon these errors are arose. ANTIPHOLUS",ckqi3joo8e87w0yu32mrkbeve,0.0,0.0,3
+490,Thou art an old love-monger and speakest skilfully.,ckqi3jop8e9s50yu3hkn348wy,2.0,0.0,3
+491,"Thou canst not speak of that thou dost not feel: Wert thou as young as I, Juliet thy love, An hour but married, Tybalt murdered, Doting like me and like me banished, Then mightst thou speak, then mightst thou tear thy hair, And fall upon the ground, as I do now, Taking the measure of an unmade grave.",ckqi3jooee8ke0yu3034nf0af,0.0,0.0,3
+492,Thou dost not speak so much.,ckqi3joooe9ia0yu327cb9y2r,0.0,0.0,4
+493,"Thou sayest true: 'tis not our bringing up of poor bastards,--as, I think, I have brought up some eleven--",ckqi3joone9d50yu365377im9,0.0,0.0,3
+494,"Thou shalt get kings, though thou be none. So all hail Macbeth and Banquo.",ckqi3joole97g0yu34j3t8l7n,0.0,0.0,3
+495,"Though Page be a secure fool and stands so  firmly on his wife's frailty, yet I cannot put off my o pinion so easily. She was in his company at Page's house,  and what they made there, I know not. Well, I will look  further into't, and I have a disguise to sound Falstaff. If  I find her honest, I lose not my labor. If she be other wise, 'tis labor well bestowed. Exit.",ckqi3jopoeaod0yu38qtl0bkp,0.0,0.0,3
+496,"Thus do they, sir: they take the flow o' the Nile By certain scales i' the pyramid; they know, By the height, the lowness, or the mean, if dearth Or foison follow: the higher Nilus swells, The more it promises: as it ebbs, the seedsman Upon the slime and ooze scatters his grain, And shortly comes to harvest.",ckqi3jopfeaf70yu3c5im18r4,0.0,0.0,2
+497,"Thus far, with rough and all-unable pen, Our bending author hath pursued the story, In little room confining mighty men, Mangling by starts the full course of their glory. Small time, but in that small most greatly lived This star of England: Fortune made his sword; By which the world's best garden be achieved, And of it left his son imperial lord. Henry the Sixth, in infant bands crown'd King Of France and England, did this king succeed; Whose state so many had the managing, That they lost France and made his England bleed: Which oft our stage hath shown; and, for their sake, In your fair minds let this acceptance take.",ckqi3jopgeahf0yu33f1f64lm,2.0,0.0,4
+498,"Thy mistress' marks? what mistress, slave, hast thou?",ckqi3joohe8uj0yu30ptp7rlp,0.0,2.0,3
+499,Thy wit is a very bitter sweeting; it is a most sharp sauce.,ckqi3joo9e8at0yu3bs3phtcr,0.0,0.0,3
+500,Till then I'll keep him dark and safely lock'd.,ckqi3joo7e86d0yu3axpg3bqx,0.0,1.0,3
+501,"Titinius is enclosèd round about With horsemen that make to him on the spur, Yet he spurs on. Now they are almost on him! Now, Titinius! Now some light. Oh, he lights too. He's ta'en! And hark! They shout for joy.",ckqi3joobe8hc0yu3d19v7a6j,0.0,0.0,2
+502,To Lacedaemon did my land extend.,ckqi3jopoeal60yu35w0b7a95,0.0,0.0,3
+503,"To fetch her fan, her gloves, her mask, nor nothing?",ckqi3jooke94j0yu37cg5bwps,0.0,0.0,4
+504,To move wild laughter in the throat of death? It cannot be; it is impossible: Mirth cannot move a soul in agony.,ckqi3joo8e8810yu31kgj5khl,0.0,1.0,2
+505,"To this effect, Achilles, have I moved you: A woman impudent and mannish grown Is not more loathed than an effeminate man In time of action. I stand condemn'd for this; They think my little stomach to the war And your great love to me restrains you thus: Sweet, rouse yourself; and the weak wanton Cupid Shall from your neck unloose his amorous fold, And, like a dew-drop from the lion's mane, Be shook to air.",ckqi3jop7e9rl0yu36u7jehvh,0.0,2.0,4
+506,Too bitter is thy jest. Are we betray'd thus to thy over-view?,ckqi3joole94y0yu3gm3qgqsv,0.0,3.0,4
+507,"Truly, shepherd, in respect of itself, it is a good life, but in respect that it is a shepherd's life, it is naught. In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life. Now, in respect it is in the fields, it pleaseth me well; but in respect it is not in the court, it is tedious. As is it a spare life, look you, it fits my humour well; but as there is no more plenty in it, it goes much against my stomach. Hast any philosophy in thee, shepherd?",ckqi3joofe8o50yu30nd55zug,0.0,0.0,3
+508,"Truly, sir, I think you'll hardly win her.",ckqi3jopoeao30yu3cqg1cisw,0.0,0.0,2
+509,"Turn head, and stop pursuit; for coward dogs Most spend their mouths when what they seem to threaten Runs far before them. Good my sovereign, Take up the English short, and let them know Of what a monarchy you are the head: Self-love, my liege, is not so vile a sin As self-neglecting.",ckqi3joone9eo0yu33pks87p1,0.0,3.0,4
+510,"Tush, man, abodements must not now affright us: By fair or foul means we must enter in, For hither will our friends repair to us.",ckqi3joppeapc0yu36324cngr,0.0,0.0,1
+511,"Tyre, I now look from thee then, and to Tarsus Intend my travel, where I'll hear from thee; And by whose letters I'll dispose myself. The care I had and have of subjects' good On thee I lay whose wisdom's strength can bear it. I'll take thy word for faith, not ask thine oath: Who shuns not to break one will sure crack both: But in our orbs we'll live so round and safe, That time of both this truth shall ne'er convince, Thou show'dst a subject's shine, I a true prince.",ckqi3jopcea4x0yu3gzqygymp,1.0,0.0,4
+512,"Unhappy fortune! by my brotherhood, The letter was not nice but full of charge Of dear import, and the neglecting it May do much danger. Friar John, go hence; Get me an iron crow, and bring it straight Unto my cell.",ckqi3jooae8e00yu3g1la1uct,0.0,0.0,3
+513,"Unhappy that I am, I cannot heave My heart into my mouth. I love your majesty According to my bond, no more nor less.",ckqi3jop9e9wl0yu3ev96ei7c,2.0,0.0,3
+514,"Unless I have mista'en his colours much, Which well I am assured I have not done, His regiment lies half a mile at least South from the mighty power of the king.",ckqi3jopxebkq0yu37i5mbpxc,0.0,0.0,3
+515,"Upon his many protestations to marry me when his wife was dead, I blush to say it, he won me. Now is the Count Rousillon a widower: his vows are forfeited to me, and my honour's paid to him. He stole from Florence, taking no leave, and I follow him to his country for justice: grant it me, O king! in you it best lies; otherwise a seducer flourishes, and a poor maid is undone. DIANA CAPILET.",ckqi3jopreawu0yu3egvfh87n,0.0,2.0,3
+516,"Verona, for a while I take my leave, To see my friends in Padua, but of all My best beloved and approved friend, Hortensio; and I trow this is his house. Here, sirrah Grumio; knock, I say.",ckqi3jopteb6k0yu366d35yrj,2.0,0.0,3
+517,"Very vilely in the morning, when he is sober, and most vilely in the afternoon, when he is drunk: when he is best, he is a little worse than a man, and when he is worst, he is little better than a beast: and the worst fall that ever fell, I hope I shall make shift to go without him.",ckqi3joope9lm0yu343jleg92,0.0,1.0,3
+518,"We arrest your word. Boyet, you can produce acquittances For such a sum from special officers Of Charles his father.",ckqi3jopqeauw0yu3d5ha67w7,0.0,0.0,3
+519,We do remember; but our argument Is all too heavy to admit much talk.,ckqi3jopxebjw0yu35y3h3ldm,0.0,0.0,3
+520,"We know thy charge, Brakenbury, and will obey.",ckqi3joore9qh0yu3dwz31wny,0.0,0.0,3
+521,"We shall find a time, Audrey; patience, gentle Audrey.",ckqi3jopseb0l0yu3ajpzbsmp,1.0,0.0,3
+522,"We were not born to sue, but to command; Which since we cannot do to make you friends, Be ready, as your lives shall answer it, At Coventry, upon Saint Lambert's day: There shall your swords and lances arbitrate The swelling difference of your settled hate: Since we can not atone you, we shall see Justice design the victor's chivalry. Lord marshal, command our officers at arms Be ready to direct these home alarms.",ckqi3joohe8s10yu3cr4o8kt4,0.0,3.0,4
+523,We will not meddle with him till he come; for his presence must be the whip of the other.,ckqi3joo6e85e0yu39lhcafla,0.0,1.0,4
+524,"We'll have this song out anon by ourselves: my father and the gentlemen are in sad talk, and we'll not trouble them. Come, bring away thy pack after me. Wenches, I'll buy for you both. Pedlar, let's have the first choice. Follow me, girls.",ckqi3jooje90x0yu35np8frs4,1.0,0.0,4
+525,We'll mutiny!,ckqi3jooqe9nk0yu302g12xqb,0.0,3.0,4
+526,"Welcome, Ancient Pistol. Here, Pistol, I charge you with a cup of sack: do you discharge upon mine hostess.",ckqi3jooqe9oe0yu3832o03b4,0.0,1.0,3
+527,"Welcome, Sir Walter Blunt; and would to God You were of our determination! Some of us love you well; and even those some Envy your great deservings and good name, Because you are not of our quality, But stand against us like an enemy.",ckqi3jopxebin0yu3b0hp0882,2.0,0.0,3
+528,"Well met, well met, Master Antipholus. I see, sir, you have found the goldsmith now: Is that the chain you promised me to-day? ANTIPHOLUS",ckqi3jopteb4w0yu3bgat351r,0.0,0.0,4
+529,"Well run, Thisby.",ckqi3joone9cb0yu3afqm1dkh,0.0,0.0,3
+530,"Well said, brazen-face, hold it out! -- Come forth,  sirrah.",ckqi3joo5e83v0yu33slb1fo7,0.0,0.0,3
+531,"Well, I'll go with thee: provide us all things necessary and meet me to-morrow night in Eastcheap; there I'll sup. Farewell.",ckqi3jop9e9wv0yu304b4732w,0.0,0.0,3
+532,"Well, I'll make excuse.",ckqi3jopyebnx0yu335fd50c5,0.0,0.0,3
+533,"Well, Suffolk, thou shalt not see me blush Nor change my countenance for this arrest: A heart unspotted is not easily daunted. The purest spring is not so free from mud As I am clear from treason to my sovereign: Who can accuse me? wherein am I guilty?",ckqi3jooie8w20yu3hmhg5vw6,0.0,0.0,4
+534,"Well, you may fear too far.",ckqi3jooce8ig0yu370zibwfa,0.0,0.0,3
+535,"What can you vouch against him, Signior Lucio? Is this the man that you did tell us of?",ckqi3jopwebga0yu35hso3vef,0.0,0.0,3
+536,"What can'st tell, boy?",ckqi3jopdea5w0yu35f5k83cj,0.0,0.0,2
+537,"What dangerous action, stood it next to death, Would I not undergo for one calm look! O, 'tis the curse in love, and still approved, When women cannot love where they're beloved!",ckqi3jopdea5c0yu3bt559yau,0.0,1.0,4
+538,"What doth she say, my Lord of Buckingham?",ckqi3jopcea2k0yu32gtjawtb,0.0,0.0,3
+539,"What is it, my good friends?",ckqi3jopdea700yu32x3o71xb,1.0,0.0,3
+540,What makes this change?,ckqi3jooje8ze0yu38cpl97v4,0.0,0.0,3
+541,What means this?,ckqi3joohe8ta0yu3dlr76zbs,0.0,0.0,3
+542,What men of name are slain on either side?,ckqi3jooge8rc0yu3gyp42g91,0.0,0.0,3
+543,"What needs this iterance, woman?  I say, thy husband.",ckqi3jopreaw50yu32ykm421b,0.0,0.0,3
+544,"What proclamation, man?",ckqi3jopdea520yu3djo2bihy,0.0,0.0,3
+545,"What say ye, countrymen? will ye relent, And yield to mercy whilst 'tis offer'd you; Or let a rebel lead you to your deaths? Who loves the king and will embrace his pardon, Fling up his cap, and say 'God save his majesty!' Who hateth him and honours not his father, Henry the Fifth, that made all France to quake, Shake he his weapon at us and pass by.",ckqi3jopyebmt0yu33euc0dx1,0.0,2.0,3
+546,"What say you, lords? Why, this was quite forgot.",ckqi3jopoean90yu39yj302gi,0.0,0.0,3
+547,What says our general?,ckqi3jopseb0g0yu33hrq11t3,0.0,0.0,4
+548,What villain madam?,ckqi3jopdea6q0yu32jy4cp3i,0.0,0.0,2
+549,What's that to us? The time goes by. Away!,ckqi3jopbea0m0yu32jly5gb8,0.0,0.0,3
+550,What's the newest grief?,ckqi3joope9kx0yu3h4kcbdla,0.0,0.0,2
+551,"What, I prithee, might be the cause?",ckqi3jopreayx0yu3ffwne6b4,0.0,0.0,3
+552,"What, is the king encamped?",ckqi3jopueba60yu368xt9j82,0.0,0.0,3
+553,"When I was born: Never was waves nor wind more violent; And from the ladder-tackle washes off A canvas-climber. 'Ha!' says one, 'wilt out?' And with a dropping industry they skip From stem to stern: the boatswain whistles, and The master calls, and trebles their confusion.",ckqi3jopeea9i0yu3cm3w610c,0.0,0.0,3
+554,When came he to this town?,ckqi3jopvebcy0yu38z6bcumg,0.0,0.0,4
+555,"When the sun sets, the air doth drizzle dew; But for the sunset of my brother's son It rains downright. How now! a conduit, girl? what, still in tears? Evermore showering? In one little body Thou counterfeit'st a bark, a sea, a wind; For still thy eyes, which I may call the sea, Do ebb and flow with tears; the bark thy body is, Sailing in this salt flood; the winds, thy sighs; Who, raging with thy tears, and they with them, Without a sudden calm, will overset Thy tempest-tossed body. How now, wife! Have you deliver'd to her our decree?",ckqi3jopxeblf0yu3fgkicqox,2.0,0.0,4
+556,"Where is he, hear you?",ckqi3jopgeaio0yu378vj6ixq,0.0,0.0,3
+557,"Where is thy leather apron and thy rule? What dost thou with thy best apparel on? You, sir, what trade are you?",ckqi3jopqeavb0yu3150fa3qf,0.0,0.0,3
+558,"Where stood Belgia, the Netherlands?",ckqi3jopoeaoi0yu3f27uc0cf,0.0,0.0,2
+559,"Where's Potpan, that he helps not to take away? He shift a trencher? he scrape a trencher!",ckqi3joobe8f40yu3f2ht3vvg,0.0,1.0,4
+560,Which is that adversary?,ckqi3joooe9fx0yu36e0hhbpd,0.0,0.0,3
+561,"Which reformation must be sudden too, My noble lords; for those that tame wild horses Pace 'em not in their hands to make 'em gentle, But stop their mouths with stubborn bits, and spur 'em, Till they obey the manage. If we suffer, Out of our easiness and childish pity To one man's honour, this contagious sickness, Farewell all physic: and what follows then? Commotions, uproars, with a general taint Of the whole state: as, of late days, our neighbours, The upper Germany, can dearly witness, Yet freshly pitied in our memories.",ckqi3jooae8ef0yu3hx511rvw,0.0,3.0,3
+562,Whither?,ckqi3jopqeaw00yu36dec5d33,0.0,0.0,3
+563,Who didst thou leave to tend his majesty?,ckqi3jopqease0yu37613gpvl,0.0,0.0,3
+564,"Who is this? my niece, that flies away so fast! Cousin, a word; where is your husband? If I do dream, would all my wealth would wake me! If I do wake, some planet strike me down, That I may slumber in eternal sleep! Speak, gentle niece, what stern ungentle hands Have lopp'd and hew'd and made thy body bare Of her two branches, those sweet ornaments, Whose circling shadows kings have sought to sleep in, And might not gain so great a happiness As have thy love? Why dost not speak to me? Alas, a crimson river of warm blood, Like to a bubbling fountain stirr'd with wind, Doth rise and fall between thy rosed lips, Coming and going with thy honey breath. But, sure, some Tereus hath deflowered thee, And, lest thou shouldst detect him, cut thy tongue. Ah, now thou turn'st away thy face for shame! And, notwithstanding all this loss of blood, As from a conduit with three issuing spouts, Yet do thy cheeks look red as Titan's face Blushing to be encountered with a cloud. Shall I speak for thee? shall I say 'tis so? O, that I knew thy heart; and knew the beast, That I might rail at him, to ease my mind! Sorrow concealed, like an oven stopp'd, Doth burn the heart to cinders where it is. Fair Philomela, she but lost her tongue, And in a tedious sampler sew'd her mind: But, lovely niece, that mean is cut from thee; A craftier Tereus, cousin, hast thou met, And he hath cut those pretty fingers off, That could have better sew'd than Philomel. O, had the monster seen those lily hands Tremble, like aspen-leaves, upon a lute, And make the silken strings delight to kiss them, He would not then have touch'd them for his life! Or, had he heard the heavenly harmony Which that sweet tongue hath made, He would have dropp'd his knife, and fell asleep As Cerberus at the Thracian poet's feet. Come, let us go, and make thy father blind; For such a sight will blind a father's eye: One hour's storm will drown the fragrant meads; What will whole months of tears thy father's eyes? Do not draw back, for we will mourn with thee O, could our mourning ease thy misery!",ckqi3jopqeat80yu3dr3tg1vf,2.0,2.0,3
+565,Who is't that cried?,ckqi3jooge8pt0yu3c82x0a2x,0.0,0.0,2
+566,"Who keeps the gate here, ho? Where is the earl?",ckqi3jopueb8i0yu3blvqf1ez,0.0,0.0,4
+567,"Who made thee, then, a bloody minister, When gallant-springing brave Plantagenet, That princely novice, was struck dead by thee?",ckqi3joppeark0yu3ahjv59b4,0.0,1.0,3
+568,"Who's there, ha?",ckqi3joppearz0yu33fo3gr67,0.0,0.0,3
+569,"Who, in this kind of merry fooling, am nothing  to you; so you may continue and laugh at nothing still!",ckqi3jopeeab10yu3921c193u,0.0,0.0,3
+570,Whose was't?,ckqi3jopfeaf20yu30c4haaz5,0.0,0.0,3
+571,Why ask you?  Hear you ought of her in yours?,ckqi3joore9qr0yu31tcsbage,0.0,0.0,4
+572,Why do the emperor's trumpets flourish thus?,ckqi3jopgeahu0yu3cv3v7m3y,0.0,0.0,4
+573,Why dost thou call them knaves? thou know'st them not.,ckqi3jooge8oz0yu3go8qdvi6,0.0,0.0,2
+574,"Why, Buckingham, I say, I would be king,",ckqi3joq1ebwj0yu3bz8j11gk,0.0,0.0,2
+575,"Why, headstrong liberty is lash'd with woe. There's nothing situate under heaven's eye But hath his bound, in earth, in sea, in sky: The beasts, the fishes, and the winged fowls, Are their males' subjects and at their controls: Men, more divine, the masters of all these, Lords of the wide world and wild watery seas, Indued with intellectual sense and souls, Of more preeminence than fish and fowls, Are masters to their females, and their lords: Then let your will attend on their accords.",ckqi3joo7e86n0yu3ec3ig2tj,0.0,0.0,3
+576,"Why, how now, sons and brother! at a strife? What is your quarrel? how began it first?",ckqi3jopreaxe0yu38exkciaf,0.0,0.0,2
+577,"Why, now blow wind! Swell billow!  And swim bark! The storm is up, and all is on the hazard!",ckqi3jopfeacp0yu3261zes9e,0.0,0.0,3
+578,"Why, of mankind.",ckqi3jopgeaj80yu3fb4q868m,0.0,0.0,2
+579,"Why, she hath a face of her own.",ckqi3joppeaos0yu3b5rqgwvh,0.0,0.0,3
+580,"Why, she's neither fish nor flesh; a man knows not where to have her.",ckqi3jopoealv0yu3106lbran,0.0,1.0,4
+581,"Why, sir, her name's a word, and to dally with  that word might make my sister wanton. But indeed,  words are very rascals since bonds disgraced them.",ckqi3jopwebem0yu346d4fdyo,0.0,0.0,3
+582,"Why, sir, if I cannot serve you, I can serve as great a prince as you are.",ckqi3joope9kd0yu37hmz0fgo,1.0,0.0,3
+583,"Why, then I see A very valiant rebel of the name. I am the Prince of Wales; and think not, Percy, To share with me in glory any more: Two stars keep not their motion in one sphere; Nor can one England brook a double reign, Of Harry Percy and the Prince of Wales.",ckqi3joo6e85t0yu37kyghmb0,0.0,2.0,4
+584,"Why, then, how stands the matter with them?",ckqi3jooie8x10yu39u053mxn,0.0,0.0,3
+585,"Why, thou hast put him in such a dream that  when the image of it leaves him he must run mad.",ckqi3jopseb010yu36msq5cnu,0.0,0.0,4
+586,"Why, what have you to do whither they  bear it? You were best meddle with buck-washing!",ckqi3jopxeblk0yu3gpa8hbpx,0.0,1.0,3
+587,"Why, you speak like an ancient and most quiet watchman; for I cannot see how sleeping should offend: only, have a care that your bills be not stolen. Well, you are to call at all the ale-houses, and bid those that are drunk get them to bed.",ckqi3jopseb1p0yu32mpk4ebm,0.0,0.0,3
+588,"Why? For filling a bottle with a tundish. I would the duke we talk of were returned again: the ungenitured agent will unpeople the province with continency; sparrows must not build in his house-eaves, because they are lecherous. The duke yet would have dark deeds darkly answered; he would never bring them to light: would he were returned! Marry, this Claudio is condemned for untrussing. Farewell, good friar: I prithee, pray for me. The duke, I say to thee again, would eat mutton on Fridays. He's not past it yet, and I say to thee, he would mouth with a beggar, though she smelt brown bread and garlic: say that I said so. Farewell.",ckqi3jopxebkg0yu3f4s2avo8,0.0,1.0,2
+589,Will not you go?,ckqi3jooqe9pn0yu3gg5oc358,0.0,0.0,3
+590,Will she go now to bed?,ckqi3jooae8ea0yu3212pexjf,0.0,0.0,4
+591,Will you shog off? I would have you solus.,ckqi3joome99e0yu38tct89bm,0.0,3.0,4
+592,"Woe that too late repents. Is it your will? Speak, sir. Prepare my horses. Ingratitude! Thou marble-hearted fiend, More hideous when thou show'st thee in a child Than the sea-monster.",ckqi3joohe8rm0yu3aovw5oxv,0.0,4.0,4
+593,Would all were well! but that will never be I fear our happiness is at the highest.,ckqi3jooqe9p80yu3b46dcg73,0.0,0.0,3
+594,Would it apply well to the vehemency of your  affection that I should win what you would enjoy? Me thinks you prescribe to yourself very preposterously.,ckqi3jopdea6b0yu31myufw6n,0.0,2.0,2
+595,"Wouldst thou withdraw it? for what purpose, love?",ckqi3jooqe9mq0yu3gblfbqee,1.0,0.0,4
+596,"Yea, and my father.",ckqi3jopfeaen0yu3cjai3p82,0.0,0.0,3
+597,"Yea, and you knew me, as you did when you ran away by Gad's-hill: you knew I was at your back, and spoke it on purpose to try my patience.",ckqi3joq0ebw40yu30fmp8lvk,0.0,1.0,2
+598,"Yea, marry, let's see Bullcalf.",ckqi3joome9940yu39swifs3m,0.0,0.0,3
+599,Yes; if there were no other excuse why they should desire to live.,ckqi3joq0ebvp0yu3e5pnatjz,0.0,0.0,3
+600,"Yet am I thankful: if my heart were great, 'Twould burst at this. Captain I'll be no more; But I will eat and drink, and sleep as soft As captain shall: simply the thing I am Shall make me live. Who knows himself a braggart, Let him fear this, for it will come to pass that every braggart shall be found an ass. Rust, sword? cool, blushes! and, Parolles, live Safest in shame! being fool'd, by foolery thrive! There's place and means for every man alive. I'll after them.",ckqi3jopteb3n0yu3dhoahvib,2.0,2.0,4
+601,"Yet give leave, my lord, That we may bring you something on the way.",ckqi3joo5e8310yu34uai86u6,0.0,0.0,3
+602,"Yet he, of all the rest, I think, best loves ye.",ckqi3jop7e9s00yu33l8v0v3l,2.0,0.0,4
+603,"Yet once again proclaim it publicly, If any friend will pay the sum for him, He shall not die; so much we tender him.",ckqi3joole97l0yu3cm5wgoeo,0.0,0.0,2
+604,"Yet swear not, lest ye be forsworn again.",ckqi3jopzebss0yu3heod2kez,0.0,0.0,3
+605,"York, if thou meanest well, I greet thee well.",ckqi3jopeeabv0yu34187bppw,2.0,0.0,3
+606,You are one of those Would have him wed again.,ckqi3jop8e9ui0yu37k8f8m43,0.0,0.0,3
+607,You dare easier be friends with me than fight with mine enemy.,ckqi3jooge8pe0yu36k1kgdiw,0.0,1.0,2
+608,"You do mistake me, sir.",ckqi3jopreax90yu30h2o1if1,0.0,0.0,3
+609,"You have it full, Benedick: we may guess by this what you are, being a man. Truly, the lady fathers herself. Be happy, lady; for you are like an honourable father.",ckqi3jopae9zd0yu36f1shzhi,2.0,0.0,3
+610,"You have told them home; And, by my troth, you have cause. You'll sup with me?",ckqi3jopvebbf0yu320wngimj,0.0,0.0,3
+611,"You have your wish; my will is even this: That presently you hie you home to bed. Thou subtle, perjured, false, disloyal man! Think'st thou I am so shallow, so conceitless, To be seduced by thy flattery, That hast deceived so many with thy vows? Return, return, and make thy love amends. For me, by this pale queen of night I swear, I am so far from granting thy request That I despise thee for thy wrongful suit, And by and by intend to chide myself Even for this time I spend in talking to thee.",ckqi3jooae8dv0yu311lngqii,0.0,4.0,4
+612,You know me by my habit.,ckqi3jooie8xv0yu3ewjg3jed,0.0,0.0,2
+613,"You must say ""paragon."" A paramour is (God  bless us), a thing of naught.",ckqi3joooe9f80yu3fmledq1s,0.0,0.0,2
+614,You shall have anything.,ckqi3joppeaq10yu33y5uaar5,1.0,0.0,3
+615,"You sheep, and I pasture: shall that finish the jest?",ckqi3jopfeae80yu3385c3208,0.0,0.0,3
+616,You will not own it.,ckqi3joohe8t00yu3bx2g1r9j,0.0,0.0,2
+617,"Young prince of Tyre, you have at large received The danger of the task you undertake.",ckqi3joo7e8720yu3696cb1pj,0.0,0.0,3
+618,Your good-worship is welcome.,ckqi3jooee8jk0yu3f1t7dt9z,4.0,0.0,4
+619,Your grace must wait till you be call'd for.,ckqi3joo9e8bn0yu3gosqbu4j,0.0,0.0,2
+620,"Your hand, and yours: Ere in our own house I do shade my head, The good patricians must be visited; From whom I have received not only greetings, But with them change of honours.",ckqi3jooee8ky0yu36fup0fvr,1.0,0.0,2
+621,Your highness told me I should post before.,ckqi3joo5e82r0yu3d9u9d1cy,0.0,0.0,2
+622,"Your spirits shine through you.  Within this hour at most I will advise you where to plant yourselves, Acquaint you with the perfect spy o'th' time, The moment on't, for't must be done tonight, And something from the palace--always thought That I require a clearness. And with him, To leave no rubs nor botches in the work, Fleance, his son, that keeps him company, Whose absence is no less material to me Than is his father's, must embrace the fate Of that dark hour. Resolve yourselves apart, I'll come to you anon.",ckqi3jop8e9to0yu3g97hepjm,0.0,1.0,3
+623,"Your wit's too hot, it speeds too fast, 'twill tire.",ckqi3joo5e8400yu35ndh5i70,0.0,1.0,2
+624,"Yours, if you talk of tails: and so farewell.",ckqi3jop9e9w60yu3d76scos4,0.0,0.0,3
