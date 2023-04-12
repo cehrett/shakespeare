@@ -397,7 +397,7 @@ def sort_by_paragraph(df):
   return paragraph_df
 
 #FOR TEST PURPOSES
-df = play_parser(5, 2, "The Massacre at Paris")
+#df = play_parser(5, 2, "The Massacre at Paris")
 #df = play_parser(4, 2, "Tamburlaine the Great, Part One")
 
-df.to_csv('play_df.csv')
+#df.to_csv('play_df.csv')
