@@ -1,3 +1,17 @@
+# RUN INSTRUCTIONS:
+# To scrape an individual play:
+#   <dataframe_name> = play_parser(<title_of_play>)
+#   NOTE: This must match the name in plays_to_scrape.csv EXACTLY
+# 
+# To scrape all plays in plays_to_scrape.csv:
+#   scrape_all_plays()
+#   NOTE: This function does NOT actually return a csv or dataframe, it simply generates them
+#
+# Command to turn a dataframe into a csv:
+#   <dataframe_name>.to_csv('<csv_name>.csv')
+
+
+
 import pip
 import subprocess
 import sys
@@ -223,7 +237,7 @@ def gender_speaker_labels(df, male_list, female_list):
   df['gender_of_speaker'] = df.index.map(line_dict)
   return df
 
-def play_parser(start_page, end_pages_to_remove, play_name):
+def play_parser(play_name):
   from numpy import number
   from pandas.compat.pyarrow import pa
   import pandas as pd
@@ -257,6 +271,9 @@ def play_parser(start_page, end_pages_to_remove, play_name):
   other_list_string = str(sheet_df['other_characters'][play_name_index].values[0])
   other_col_list = other_list_string.split(", ")
 
+  start_page = int(sheet_df['start_page'][play_name_index])
+  end_page = int(sheet_df['end_page'][play_name_index])
+
   with open(name, "rb") as pdf_file:
       read_pdf = PyPDF2.PdfReader(pdf_file)
       number_of_pages = len(read_pdf.pages)
@@ -267,7 +284,7 @@ def play_parser(start_page, end_pages_to_remove, play_name):
     pages_list = []
 
     #Changes the page to end on based on the numer of pages to be omitted
-    number_of_pages = number_of_pages - end_pages_to_remove
+    number_of_pages = number_of_pages - end_page
 
 
     #The first few pages are title page info, and so on
@@ -396,8 +413,28 @@ def sort_by_paragraph(df):
 
   return paragraph_df
 
+def scrape_all_plays():
+  import pandas as pd
+  sheet_df = pd.read_csv('plays_to_scrape.csv')
+  num_of_plays = len(sheet_df)
+
+  for i in range(num_of_plays):
+    play_name = str(sheet_df['title'][i])
+    start_page = str(sheet_df['start_page'][i])
+    end_page = str(sheet_df['end_page'][i])
+
+    df = play_parser(int(start_page), int(end_page), play_name)
+    df_name = play_name.replace(' ', '_')
+    df_name = df_name.replace(',', '')
+    df_name = df_name.replace("'", '')
+    df_name = df_name.replace("’", '')
+    df_name = df_name + "_df.csv"
+
+    df.to_csv(df_name)
+
 #FOR TEST PURPOSES
-#df = play_parser(5, 2, "The Massacre at Paris")
-#df = play_parser(4, 2, "Tamburlaine the Great, Part One")
+#df = play_parser("The Massacre at Paris")
+#df = play_parser("Tamburlaine the Great, Part One")
 
 #df.to_csv('play_df.csv')
+#scrape_all_plays()
