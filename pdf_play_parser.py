@@ -251,6 +251,9 @@ def play_parser(play_name):
   play_name_index = sheet_df[sheet_df['title']== play_name].index.values
   pdf_link = sheet_df['pdf_link'][play_name_index].values[0]
 
+  # Get the author of the play
+  play_author = sheet_df['author'][play_name_index].values[0]
+
   #Pulls file into a pdf named playfile.pdf
   #All these steps are necesaary for this to work, not sure why
   name = "./playfile.pdf" 
@@ -373,6 +376,12 @@ def play_parser(play_name):
 
   #Adds gender of speaker labels
   play_df = gender_speaker_labels(play_df, male_col_list, female_col_list)
+
+  # Add play name to play_df
+  play_df['title'] = play_name
+
+  # Add play author to play_df
+  play_df['author'] = play_author
 
   return play_df
 
