@@ -377,11 +377,11 @@ def play_parser(play_name):
   #Adds gender of speaker labels
   play_df = gender_speaker_labels(play_df, male_col_list, female_col_list)
 
-  # Add play name to play_df
-  play_df['title'] = play_name
-
   # Add play author to play_df
-  play_df['author'] = play_author
+  play_df.insert(0, 'author', play_author)
+  # Add play name to play_df
+  play_df.insert(0, 'title', play_name)
+
 
   return play_df
 
