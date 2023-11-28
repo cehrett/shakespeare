@@ -253,6 +253,8 @@ def play_parser(play_name):
 
   # Get the author of the play
   play_author = sheet_df['author'][play_name_index].values[0]
+  play_genre = sheet_df['genre'][play_name_index].values[0]
+  play_year = sheet_df['year'][play_name_index].values[0]
 
   #Pulls file into a pdf named playfile.pdf
   #All these steps are necesaary for this to work, not sure why
@@ -381,6 +383,8 @@ def play_parser(play_name):
   play_df.insert(0, 'author', play_author)
   # Add play name to play_df
   play_df.insert(0, 'title', play_name)
+  play_df.insert('genre', play_genre)
+  play_df.insert('year', play_year)
 
 
   return play_df
