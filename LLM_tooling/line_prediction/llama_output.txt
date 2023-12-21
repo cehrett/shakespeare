@@ -1,0 +1,37 @@
+Okay, using /scratch/sdj5/hf_cache for huggingface cache. Models will be stored there.
+Huggingface API key loaded.
+trainable params: 4,194,304 || all params: 6,742,609,920 || trainable%: 0.06220594176090199
+{'loss': 1.6342, 'learning_rate': 8.449612403100775e-05, 'epoch': 0.15}
+{'eval_loss': 1.3754760026931763, 'eval_runtime': 71.3805, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.308, 'epoch': 0.15}
+{'loss': 1.3028, 'learning_rate': 6.89922480620155e-05, 'epoch': 0.31}
+{'eval_loss': 1.2740627527236938, 'eval_runtime': 71.3984, 'eval_samples_per_second': 2.381, 'eval_steps_per_second': 0.308, 'epoch': 0.31}
+{'loss': 1.0617, 'learning_rate': 5.348837209302326e-05, 'epoch': 0.46}
+{'eval_loss': 1.2590116262435913, 'eval_runtime': 71.382, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.308, 'epoch': 0.46}
+{'loss': 0.8956, 'learning_rate': 3.798449612403101e-05, 'epoch': 0.62}
+{'eval_loss': 1.3195998668670654, 'eval_runtime': 71.3732, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.308, 'epoch': 0.62}
+{'loss': 0.8361, 'learning_rate': 2.2480620155038764e-05, 'epoch': 0.77}
+{'eval_loss': 1.3601667881011963, 'eval_runtime': 71.3728, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.308, 'epoch': 0.77}
+{'loss': 0.7983, 'learning_rate': 6.976744186046512e-06, 'epoch': 0.93}
+{'eval_loss': 1.3794701099395752, 'eval_runtime': 71.3721, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.308, 'epoch': 0.93}
+{'train_runtime': 1844.2363, 'train_samples_per_second': 0.28, 'train_steps_per_second': 0.07, 'train_loss': 1.066958745320638, 'epoch': 1.0}
+
+[INST]<<SYS>>
+You are an expert at predicting the next line of Elizabethan plays. Given the title of a play, its published year, author, genre, characters in the play, and three lines, generate the next line that follows. Only generate the next line with no other introduction or explanation.
+<</SYS>>
+
+Title: Dido, Queen of Carthage
+Year: 1585-1586
+Author: Christopher Marlowe
+Genre: Tragedy
+Characters in play: ['Aeneas.', 'First Lord.', 'Cloan.', 'Dido.', 'Achat.', 'Nurse.', 'Serg.', 'Jup.', 'Ilio.', 'Venus.', 'Iarb.', 'nan', 'Asca.', 'Cupid.', 'Juno.', 'Anna.']
+Lines of play: 
+Jup.: Come, gentle Ganymede, and play with me:
+ 	I love thee well, say Juno what she will.
+Gany.: I am much better for your worthless love,
+ 
+
+Next line:
+[/INST]
+
+
+And would not change my lot for all the gods.

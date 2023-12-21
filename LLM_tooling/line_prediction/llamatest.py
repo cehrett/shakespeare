@@ -10,7 +10,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 token = "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"
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf", token = token)
-model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", token = token, cache_dir="/scratch1/sdj5/hf")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", token = token, cache_dir="")
 
 # creates the prompt and next line and stores it as a string
 new_prompt, next_line = llm_prompt.create_prompt(title)

@@ -1,0 +1,86 @@
+Okay, using /scratch/sdj5/hf_cache for huggingface cache. Models will be stored there.
+Huggingface API key loaded.
+trainable params: 4,194,304 || all params: 6,742,609,920 || trainable%: 0.06220594176090199
+{'loss': 1.1371, 'learning_rate': 0.0009690880989180835, 'epoch': 0.03}
+{'eval_loss': 1.3351285457611084, 'eval_runtime': 356.0245, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.03}
+{'loss': 0.7675, 'learning_rate': 0.0009381761978361669, 'epoch': 0.06}
+{'eval_loss': 1.3679821491241455, 'eval_runtime': 356.0979, 'eval_samples_per_second': 2.381, 'eval_steps_per_second': 0.298, 'epoch': 0.06}
+{'loss': 0.7293, 'learning_rate': 0.0009072642967542504, 'epoch': 0.09}
+{'eval_loss': 1.420006275177002, 'eval_runtime': 355.9364, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.09}
+{'loss': 0.7122, 'learning_rate': 0.0008763523956723338, 'epoch': 0.12}
+{'eval_loss': 1.4469130039215088, 'eval_runtime': 355.9159, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.12}
+{'loss': 0.6995, 'learning_rate': 0.0008454404945904173, 'epoch': 0.15}
+{'eval_loss': 1.5221812725067139, 'eval_runtime': 355.808, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.15}
+{'loss': 0.6936, 'learning_rate': 0.0008145285935085008, 'epoch': 0.19}
+{'eval_loss': 1.4498285055160522, 'eval_runtime': 355.9072, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.19}
+{'loss': 0.69, 'learning_rate': 0.0007836166924265843, 'epoch': 0.22}
+{'eval_loss': 1.5060063600540161, 'eval_runtime': 355.8993, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.22}
+{'loss': 0.6894, 'learning_rate': 0.0007527047913446677, 'epoch': 0.25}
+{'eval_loss': 1.5601757764816284, 'eval_runtime': 355.8962, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.25}
+{'loss': 0.6758, 'learning_rate': 0.0007217928902627512, 'epoch': 0.28}
+{'eval_loss': 1.5864824056625366, 'eval_runtime': 355.8973, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.28}
+{'loss': 0.6739, 'learning_rate': 0.0006908809891808346, 'epoch': 0.31}
+{'eval_loss': 1.5398741960525513, 'eval_runtime': 355.8899, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.31}
+{'loss': 0.6681, 'learning_rate': 0.0006599690880989181, 'epoch': 0.34}
+{'eval_loss': 1.5698530673980713, 'eval_runtime': 356.0296, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.34}
+{'loss': 0.6651, 'learning_rate': 0.0006290571870170015, 'epoch': 0.37}
+{'eval_loss': 1.5785856246948242, 'eval_runtime': 355.9546, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.37}
+{'loss': 0.6592, 'learning_rate': 0.000598145285935085, 'epoch': 0.4}
+{'eval_loss': 1.632285475730896, 'eval_runtime': 355.9697, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.4}
+{'loss': 0.6575, 'learning_rate': 0.0005672333848531684, 'epoch': 0.43}
+{'eval_loss': 1.6168464422225952, 'eval_runtime': 356.0581, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.43}
+{'loss': 0.6572, 'learning_rate': 0.0005363214837712519, 'epoch': 0.46}
+{'eval_loss': 1.6903103590011597, 'eval_runtime': 356.0653, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.46}
+{'loss': 0.654, 'learning_rate': 0.0005054095826893354, 'epoch': 0.49}
+{'eval_loss': 1.7553293704986572, 'eval_runtime': 356.053, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.49}
+{'loss': 0.6517, 'learning_rate': 0.00047449768160741883, 'epoch': 0.53}
+{'eval_loss': 1.758162498474121, 'eval_runtime': 356.0394, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.53}
+{'loss': 0.6486, 'learning_rate': 0.0004435857805255023, 'epoch': 0.56}
+{'eval_loss': 1.7079682350158691, 'eval_runtime': 356.0539, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.56}
+{'loss': 0.6556, 'learning_rate': 0.0004126738794435858, 'epoch': 0.59}
+{'eval_loss': 1.707473874092102, 'eval_runtime': 356.0406, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.59}
+{'loss': 0.6482, 'learning_rate': 0.00038176197836166923, 'epoch': 0.62}
+{'eval_loss': 1.7333216667175293, 'eval_runtime': 356.021, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.62}
+{'loss': 0.6486, 'learning_rate': 0.00035085007727975274, 'epoch': 0.65}
+{'eval_loss': 1.778356909751892, 'eval_runtime': 355.9774, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.65}
+{'loss': 0.6388, 'learning_rate': 0.0003199381761978362, 'epoch': 0.68}
+{'eval_loss': 1.8235516548156738, 'eval_runtime': 355.9047, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.68}
+{'loss': 0.6405, 'learning_rate': 0.00028902627511591964, 'epoch': 0.71}
+{'eval_loss': 1.8187264204025269, 'eval_runtime': 355.9709, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.71}
+{'loss': 0.6449, 'learning_rate': 0.00025811437403400314, 'epoch': 0.74}
+{'eval_loss': 1.787371039390564, 'eval_runtime': 355.9572, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.74}
+{'loss': 0.6419, 'learning_rate': 0.00022720247295208656, 'epoch': 0.77}
+{'eval_loss': 1.844228744506836, 'eval_runtime': 355.9491, 'eval_samples_per_second': 2.382, 'eval_steps_per_second': 0.298, 'epoch': 0.77}
+{'loss': 0.6384, 'learning_rate': 0.00019629057187017, 'epoch': 0.8}
+{'eval_loss': 1.8703863620758057, 'eval_runtime': 355.8965, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.8}
+{'loss': 0.6382, 'learning_rate': 0.00016537867078825346, 'epoch': 0.83}
+{'eval_loss': 1.9181076288223267, 'eval_runtime': 355.8308, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.83}
+{'loss': 0.6291, 'learning_rate': 0.00013446676970633694, 'epoch': 0.87}
+{'eval_loss': 1.9473309516906738, 'eval_runtime': 355.8515, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.87}
+{'loss': 0.6344, 'learning_rate': 0.0001035548686244204, 'epoch': 0.9}
+{'eval_loss': 1.9318033456802368, 'eval_runtime': 355.8366, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.9}
+{'loss': 0.6394, 'learning_rate': 7.264296754250387e-05, 'epoch': 0.93}
+{'eval_loss': 1.9586868286132812, 'eval_runtime': 355.8373, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.93}
+{'loss': 0.6307, 'learning_rate': 4.173106646058733e-05, 'epoch': 0.96}
+{'eval_loss': 1.971637487411499, 'eval_runtime': 355.8444, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.96}
+{'loss': 0.6338, 'learning_rate': 1.0819165378670788e-05, 'epoch': 0.99}
+{'eval_loss': 1.968614101409912, 'eval_runtime': 355.8459, 'eval_samples_per_second': 2.383, 'eval_steps_per_second': 0.298, 'epoch': 0.99}
+{'train_runtime': 18515.0185, 'train_samples_per_second': 0.14, 'train_steps_per_second': 0.035, 'train_loss': 0.6773742789278812, 'epoch': 1.0}
+
+[INST]<<SYS>>
+You are an expert at predicting the next line of Elizabethan plays. Given the title of a play, its published year, author, genre, characters in the play, and three lines, generate the next line that follows. Only generate the next line with no other introduction or explanation.
+<</SYS>>
+
+Title: Dido, Queen of Carthage
+Year: 1585-1586
+Author: Christopher Marlowe
+Genre: Tragedy
+Characters in play: ['Aeneas.', 'First Lord.', 'Cloan.', 'Dido.', 'Achat.', 'Nurse.', 'Serg.', 'Jup.', 'Ilio.', 'Venus.', 'Iarb.', 'nan', 'Asca.', 'Cupid.', 'Juno.', 'Anna.']
+Lines of play: 
+Jup.: Come, gentle Ganymede, and play with me:
+ 	I love thee well, say Juno what she will.
+Gany.: I am much better for your worthless love,
+ 
+
+Next line:
+[/INST]Than you are for your own, I'll tell you true.
